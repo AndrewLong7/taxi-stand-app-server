@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "hkusmlab-app-server"
+version = "0.0.1"
+description = "A Python app server for HKUSMLab"
+authors = ["Matthew Wang <mattw@hku.hk>"]
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/Matthewow/Taxi-stand-app-server"
+
+[tool.poetry.dependencies]
+python = ">=3.12"
+fastapi = "^0.115.0"
+geopy = "^2.4.0"
