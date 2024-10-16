@@ -3,13 +3,12 @@ from geopy.distance import geodesic
 from enum import IntFlag
 import json
 from typing import List
-from pydantic import BaseModel
 
 app = FastAPI()
+taxi_stand_data_url = "../data/taxi_stands_demand_client.json"
 
-# Load data once
-with open("../data/taxi_stands_demand_client.json", "r") as f:
-    stand_data = json.load(f)
+with open(taxi_stand_data_url, "r") as f:
+    taxi_stand_data = json.load(f)
 
 
 class TaxiStandType(IntFlag):
@@ -36,7 +35,7 @@ def get_nearby_taxi_stands(
 ):
     candidates = []
 
-    for stand in stand_data:
+    for stand in taxi_stand_data:
         if (
             (stand_type & TaxiStandType.URBAN and stand["isUrban"])
             or (stand_type & TaxiStandType.CROSS_HARBOUR and stand["isCrossHarbour"])
@@ -57,7 +56,7 @@ def get_nearby_taxi_stands(
     return sorted_candidates[:number]
 
 
-@app.get("/get_nearby_taxi_stands/")
+@app.post("/nearby_taxi_stands/")
 async def read_nearby_taxi_stands(
     user_lat: float,
     user_lng: float,
@@ -68,6 +67,10 @@ async def read_nearby_taxi_stands(
     return get_nearby_taxi_stands(user_lat, user_lng, number, coefficient, stand_type)
 
 
-@app.get("/get_all_data/")
-async def read_all_data():
-    return stand_data
+@app.get("/taxi_stands/")
+async def all_taxi_stands():
+    return taxi_stand_data
+
+@app.get("/gas_stations/")
+async def all_gas_stations():
+    return taxi_stand_data
