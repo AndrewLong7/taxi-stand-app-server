@@ -4,6 +4,8 @@ from taxi_stands.utils import get_nearby_taxi_stands, taxi_stand_data
 
 app = FastAPI()
 
+prefix = ["HKI", "KLN", "NT"]
+
 
 @app.post("/nearby_taxi_stands/")
 async def read_nearby_taxi_stands(
@@ -19,6 +21,7 @@ async def read_nearby_taxi_stands(
 @app.get("/taxi_stands/")
 async def all_taxi_stands():
     return taxi_stand_data
+
 
 @app.get("/gas_stations/")
 async def all_gas_stations():

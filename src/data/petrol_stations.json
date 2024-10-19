@@ -1,0 +1,4257 @@
+[
+  {
+    "location": {
+      "latitude": 22.2817824211215,
+      "longitude": 114.178826854898
+    },
+    "name": {
+      "en": "Wan Chai Dedicated LPG Station",
+      "zh_Hant": "灣仔專用石油氣站",
+      "zh_Hans": "湾仔专用石油气站"
+    },
+    "address": {
+      "en": "7 Wan Shing Street, Wan Chai, Hong Kong",
+      "zh_Hant": "灣仔運盛街7號",
+      "zh_Hans": "湾仔运盛街7号"
+    },
+    "type": {
+      "en": "Shell",
+      "zh_Hant": "蚬殼",
+      "zh_Hans": "壳牌"
+    },
+    "stand_id": 1,
+    "image_url": "images/petrol_stations/HKI1.png"
+  },
+  {
+    "location": {
+      "latitude": 22.288332,
+      "longitude": 114.136636
+    },
+    "name": {
+      "en": "Sheung Wan Dedicated LPG Station",
+      "zh_Hant": "上環專用石油氣站",
+      "zh_Hans": "上环专用石油气站"
+    },
+    "address": {
+      "en": "9 Fung Mat Road, Sheung Wan, Hong Kong",
+      "zh_Hant": "香港上環豐物道9號",
+      "zh_Hans": "香港上环丰物道9号"
+    },
+    "type": {
+      "en": "Shell",
+      "zh_Hant": "蚬殼",
+      "zh_Hans": "壳牌"
+    },
+    "stand_id": 2,
+    "image_url": "images/petrol_stations/HKI2.png"
+  },
+  {
+    "location": {
+      "latitude": 22.2675775168494,
+      "longitude": 114.245601185831
+    },
+    "name": {
+      "en": "Chai Wan LPG Station",
+      "zh_Hant": "柴灣石油氣站",
+      "zh_Hans": "柴湾石油气站"
+    },
+    "address": {
+      "en": "9 Fung Yip Street, Chai Wan, Hong Kong",
+      "zh_Hant": "香港柴灣豐業街9號",
+      "zh_Hans": "香港柴湾丰业街9号"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 3,
+    "image_url": "images/petrol_stations/HKI3.png"
+  },
+  {
+    "location": {
+      "latitude": 22.2749953638402,
+      "longitude": 114.130036085844
+    },
+    "name": {
+      "en": "Pok Fu Lam Station",
+      "zh_Hant": "薄扶林站",
+      "zh_Hans": "薄扶林站"
+    },
+    "address": {
+      "en": "No.100 Pok Fu Lam Road, Hong Kong",
+      "zh_Hant": "香港薄扶林道100號",
+      "zh_Hans": "香港薄扶林道100号"
+    },
+    "type": {
+      "en": "Shell",
+      "zh_Hant": "蚬殼",
+      "zh_Hans": "壳牌"
+    },
+    "stand_id": 4,
+    "image_url": "images/petrol_stations/HKI4.png"
+  },
+  {
+    "location": {
+      "latitude": 22.248825,
+      "longitude": 114.162128
+    },
+    "name": {
+      "en": "Aberdeen Station",
+      "zh_Hant": "香港仔站",
+      "zh_Hans": "香港仔站"
+    },
+    "address": {
+      "en": "3 Wong Chuk Hang Road, Aberdeen, Hong Kong (Next to Aberdeen Technical School)",
+      "zh_Hant": "香港香港仔黃竹坑道3號（香港仔工業學校旁）",
+      "zh_Hans": "香港香港仔黄竹坑道3号（香港仔工业学校旁）"
+    },
+    "type": {
+      "en": "Esso",
+      "zh_Hant": "埃索",
+      "zh_Hans": "埃索"
+    },
+    "stand_id": 5,
+    "image_url": "images/petrol_stations/HKI5.png"
+  },
+  {
+    "location": {
+      "latitude": 22.281359194703,
+      "longitude": 114.121813774108
+    },
+    "name": {
+      "en": "Victoria Road Station",
+      "zh_Hant": "域多利道油站",
+      "zh_Hans": "域多利道油站"
+    },
+    "address": {
+      "en": "61 Victoria Road, Kennedy Town, Hong Kong",
+      "zh_Hant": "香港堅尼地城域多利道61號",
+      "zh_Hans": "香港坚尼地城域多利道61号"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 6,
+    "image_url": "images/petrol_stations/HKI6.png"
+  },
+  {
+    "location": {
+      "latitude": 22.2575870452664,
+      "longitude": 114.193261116743
+    },
+    "name": {
+      "en": "Wong Nai Chung Gap Road Station",
+      "zh_Hant": "黃泥涌峽道油站",
+      "zh_Hans": "黄泥涌峡道油站"
+    },
+    "address": {
+      "en": "145 Wong Nai Chung Gap Road, Hong Kong",
+      "zh_Hant": "香港黃泥涌峽道145號",
+      "zh_Hans": "香港黄泥涌峡道145号"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 7,
+    "image_url": "images/petrol_stations/HKI7.png"
+  },
+  {
+    "location": {
+      "latitude": 22.2684394962328,
+      "longitude": 114.162837490439
+    },
+    "name": {
+      "en": "Peak Road Station",
+      "zh_Hant": "山頂道油站",
+      "zh_Hans": "山顶道油站"
+    },
+    "address": {
+      "en": "Rural Building Lots 1184 & 1185, Peak Road, Hong Kong",
+      "zh_Hant": "香港山頂道鄉交建屋地段第1184-1185號",
+      "zh_Hans": "香港山顶道乡交建屋地段第1184-1185号"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 8,
+    "image_url": "images/petrol_stations/HKI8.png"
+  },
+  {
+    "location": {
+      "latitude": 22.2739739966251,
+      "longitude": 114.242600351572
+    },
+    "name": {
+      "en": "Chai Wan Station",
+      "zh_Hant": "柴灣油氣站",
+      "zh_Hans": "柴湾油气站"
+    },
+    "address": {
+      "en": "5 Chong Fu Road, Chai Wan, Hong Kong",
+      "zh_Hant": "香港柴灣創富道5號(近杏花村油庫)",
+      "zh_Hans": "香港柴湾创富道5号(近杏花村油库)"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 9,
+    "image_url": "images/petrol_stations/HKI9.png"
+  },
+  {
+    "location": {
+      "latitude": 22.2759714265121,
+      "longitude": 114.155895933508
+    },
+    "name": {
+      "en": "MacDonnell Road Station",
+      "zh_Hant": "麥當勞道油站",
+      "zh_Hans": "麦当劳道油站"
+    },
+    "address": {
+      "en": "3A MacDonnell Road, Central, Hong Kong",
+      "zh_Hant": "香港中區麥當勞道3A號",
+      "zh_Hans": "香港中区麦当劳道3A号"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 10,
+    "image_url": "images/petrol_stations/HKI10.png"
+  },
+  {
+    "location": {
+      "latitude": 22.2754855678135,
+      "longitude": 114.167325496673
+    },
+    "name": {
+      "en": "Kennedy Road Station",
+      "zh_Hant": "堅尼地道油站",
+      "zh_Hans": "坚尼地道油站"
+    },
+    "address": {
+      "en": "9J Kennedy Road, Wanchai, Hong Kong",
+      "zh_Hant": "香港灣仔堅尼地道9J號",
+      "zh_Hans": "香港湾仔坚尼地道9J号"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 11,
+    "image_url": "images/petrol_stations/HKI11.png"
+  },
+  {
+    "location": {
+      "latitude": 22.2772080937199,
+      "longitude": 114.181007444858
+    },
+    "name": {
+      "en": "Canal Road Station",
+      "zh_Hant": "堅拿道西油站",
+      "zh_Hans": "坚拿道西油站"
+    },
+    "address": {
+      "en": "35 Canal Road West, Casueway Bay, Hong Kong",
+      "zh_Hant": "香港銅鑼灣堅拿道西35號 (堅拿道天橋底)",
+      "zh_Hans": "香港铜锣湾坚拿道西35号 (坚拿道天桥底)"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 12,
+    "image_url": "images/petrol_stations/HKI12.png"
+  },
+  {
+    "location": {
+      "latitude": 22.2883835200017,
+      "longitude": 114.209721833467
+    },
+    "name": {
+      "en": "King's Road Station",
+      "zh_Hant": "英皇道油站",
+      "zh_Hans": "英皇道油站"
+    },
+    "address": {
+      "en": "892 King's Road, Quarry Bay, Hong Kong",
+      "zh_Hant": "香港鰂魚涌英皇道892號 (北角官立小學旁)",
+      "zh_Hans": "香港鰂鱼涌英皇道892号 (北角官立小学旁)"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 13,
+    "image_url": "images/petrol_stations/HKI13.png"
+  },
+  {
+    "location": {
+      "latitude": 22.2622097411955,
+      "longitude": 114.133046194911
+    },
+    "name": {
+      "en": "Victoria Road Station",
+      "zh_Hant": "域多利道站",
+      "zh_Hans": "域多利道站"
+    },
+    "address": {
+      "en": "555 Victoria Road, Hong Kong",
+      "zh_Hant": "香港域多利道555號 (近碧瑤灣)",
+      "zh_Hans": "香港域多利道555号 (近碧瑶湾)"
+    },
+    "type": {
+      "en": "Shell",
+      "zh_Hant": "蚬殼",
+      "zh_Hans": "壳牌"
+    },
+    "stand_id": 14,
+    "image_url": "images/petrol_stations/HKI14.png"
+  },
+  {
+    "location": {
+      "latitude": 22.2873275049442,
+      "longitude": 114.210491627454
+    },
+    "name": {
+      "en": "Quarry Bay Station",
+      "zh_Hant": "鰂魚涌站",
+      "zh_Hans": "鰂鱼涌站"
+    },
+    "address": {
+      "en": "979A King's Road, Quarry Bay, Hong Kong",
+      "zh_Hant": "香港鰂魚涌英皇道979A號",
+      "zh_Hans": "香港鰂鱼涌英皇道979A号"
+    },
+    "type": {
+      "en": "Shell",
+      "zh_Hant": "蚬殼",
+      "zh_Hans": "壳牌"
+    },
+    "stand_id": 15,
+    "image_url": "images/petrol_stations/HKI15.png"
+  },
+  {
+    "location": {
+      "latitude": 22.2877047427314,
+      "longitude": 114.191946834325
+    },
+    "name": {
+      "en": "Electric Road Station",
+      "zh_Hant": "電氣道站",
+      "zh_Hans": "电气道站"
+    },
+    "address": {
+      "en": "169-171 Electric Road, North Point, Hong Kong",
+      "zh_Hant": "香港北角電氣道169-171號",
+      "zh_Hans": "香港北角电气道169-171号"
+    },
+    "type": {
+      "en": "Shell",
+      "zh_Hant": "蚬殼",
+      "zh_Hans": "壳牌"
+    },
+    "stand_id": 16,
+    "image_url": "images/petrol_stations/HKI16.png"
+  },
+  {
+    "location": {
+      "latitude": 22.222137582585,
+      "longitude": 114.211152121424
+    },
+    "name": {
+      "en": "Stanley Station",
+      "zh_Hant": "赤柱站",
+      "zh_Hans": "赤柱站"
+    },
+    "address": {
+      "en": "34 Stanley Village Road, Stanley, Hong Kong",
+      "zh_Hant": "香港赤柱赤柱村道34號",
+      "zh_Hans": "香港赤柱赤柱村道34号"
+    },
+    "type": {
+      "en": "Esso",
+      "zh_Hant": "埃索",
+      "zh_Hans": "埃索"
+    },
+    "stand_id": 17,
+    "image_url": "images/petrol_stations/HKI17.png"
+  },
+  {
+    "location": {
+      "latitude": 22.266836,
+      "longitude": 114.244178
+    },
+    "name": {
+      "en": "Chai Wan Station",
+      "zh_Hant": "柴灣站",
+      "zh_Hans": "柴湾站"
+    },
+    "address": {
+      "en": "23 Fung Yip Street, Chai Wan, Hong Kong",
+      "zh_Hant": "香港柴灣豐業街23號",
+      "zh_Hans": "香港柴湾丰业街23号"
+    },
+    "type": {
+      "en": "Esso",
+      "zh_Hant": "埃索",
+      "zh_Hans": "埃索"
+    },
+    "stand_id": 18,
+    "image_url": "images/petrol_stations/HKI18.png"
+  },
+  {
+    "location": {
+      "latitude": 22.2926924999216,
+      "longitude": 114.206222221255
+    },
+    "name": {
+      "en": "North Point Station",
+      "zh_Hant": "北角站",
+      "zh_Hans": "北角站"
+    },
+    "address": {
+      "en": "(Next to Kodak House) 311 Java Road, North Point, Hong Kong",
+      "zh_Hant": "香港北角渣華道311號 (柯達大廈側)",
+      "zh_Hans": "香港北角渣华道311号 (柯达大厦侧)"
+    },
+    "type": {
+      "en": "Esso",
+      "zh_Hant": "埃索",
+      "zh_Hans": "埃索"
+    },
+    "stand_id": 19,
+    "image_url": "images/petrol_stations/HKI19.png"
+  },
+  {
+    "location": {
+      "latitude": 22.2590584555791,
+      "longitude": 114.192284792661
+    },
+    "name": {
+      "en": "Wong Nai Chung Gap Station",
+      "zh_Hant": "黃泥涌峽站",
+      "zh_Hans": "黄泥涌峡站"
+    },
+    "address": {
+      "en": "(Opposite to Hong Kong Tennis Centre) Wong Nai Chung Gap Road, Hong Kong",
+      "zh_Hant": "香港黃泥涌峽道 (香港網球中心對面)",
+      "zh_Hans": "香港黄泥涌峡道 (香港网球中心对面)"
+    },
+    "type": {
+      "en": "Esso",
+      "zh_Hant": "埃索",
+      "zh_Hans": "埃索"
+    },
+    "stand_id": 20,
+    "image_url": "images/petrol_stations/HKI20.png"
+  },
+  {
+    "location": {
+      "latitude": 22.2674062907791,
+      "longitude": 114.187025651335
+    },
+    "name": {
+      "en": "Sing Woo Road Station",
+      "zh_Hant": "成和道站",
+      "zh_Hans": "成和道站"
+    },
+    "address": {
+      "en": "(Next to police station) 50 Sing Woo Road, Happy Valley, Hong Kong",
+      "zh_Hant": "香港跑馬地成和道50號 (警局側)",
+      "zh_Hans": "香港跑马地成和道50号 (警局侧)"
+    },
+    "type": {
+      "en": "Esso",
+      "zh_Hant": "埃索",
+      "zh_Hans": "埃索"
+    },
+    "stand_id": 21,
+    "image_url": "images/petrol_stations/HKI21.png"
+  },
+  {
+    "location": {
+      "latitude": 22.2784751543497,
+      "longitude": 114.168826192617
+    },
+    "name": {
+      "en": "Arsenal Street Station",
+      "zh_Hant": "軍器廠街站",
+      "zh_Hans": "军器厂街站"
+    },
+    "address": {
+      "en": "(Junction of Arsenal Street and Lockhart Road) 1 Lockhart Road, Wan Chai, Hong Kong",
+      "zh_Hant": "香港灣仔駱克道1號 (與軍器廠街交界)",
+      "zh_Hans": "香港湾仔骆克道1号 (与军器厂街交界)"
+    },
+    "type": {
+      "en": "Esso",
+      "zh_Hant": "埃索",
+      "zh_Hans": "埃索"
+    },
+    "stand_id": 22,
+    "image_url": "images/petrol_stations/HKI22.png"
+  },
+  {
+    "location": {
+      "latitude": 22.2497295393126,
+      "longitude": 114.169329106807
+    },
+    "name": {
+      "en": "Wong Chuk Hang Station",
+      "zh_Hant": "黃竹坑站",
+      "zh_Hans": "黄竹坑站"
+    },
+    "address": {
+      "en": "(Next to Aberdeen Sports Ground) 66 Wong Chuk Hang Road, Aberdeen, Hong Kong",
+      "zh_Hant": "香港香港仔黃竹坑道66號 (香港仔運動場側)",
+      "zh_Hans": "香港香港仔黄竹坑道66号 (香港仔运动场侧)"
+    },
+    "type": {
+      "en": "Esso",
+      "zh_Hant": "埃索",
+      "zh_Hans": "埃索"
+    },
+    "stand_id": 23,
+    "image_url": "images/petrol_stations/HKI23.png"
+  },
+  {
+    "location": {
+      "latitude": 22.2493491,
+      "longitude": 114.1554695
+    },
+    "name": {
+      "en": "Aberdeen Station",
+      "zh_Hant": "香港仔站",
+      "zh_Hans": "香港仔站"
+    },
+    "address": {
+      "en": "(Next to Port Centre) 30 Tung Sing Road, Aberdeen, Hong Kong",
+      "zh_Hant": "香港香港仔東勝道30號 （利港商場旁）",
+      "zh_Hans": "香港香港仔东胜道30号 （利港商场旁）"
+    },
+    "type": {
+      "en": "PetroChina",
+      "zh_Hant": "中國石油",
+      "zh_Hans": "中国石油"
+    },
+    "stand_id": 24,
+    "image_url": "images/petrol_stations/HKI24.png"
+  },
+  {
+    "location": {
+      "latitude": 22.27085711,
+      "longitude": 114.1915666
+    },
+    "name": {
+      "en": "Tai Hang Road Station",
+      "zh_Hant": "大坑站",
+      "zh_Hans": "大坑站"
+    },
+    "address": {
+      "en": "(At the junction of Perkins Road) 137 Tai Hang Road, Hong Kong",
+      "zh_Hant": "香港渣甸山大坑道137號（白建時道交界）",
+      "zh_Hans": "香港渣甸山大坑道137号（白建时道交界）"
+    },
+    "type": {
+      "en": "PetroChina",
+      "zh_Hant": "中國石油",
+      "zh_Hans": "中国石油"
+    },
+    "stand_id": 25,
+    "image_url": "images/petrol_stations/HKI25.png"
+  },
+  {
+    "location": {
+      "latitude": 22.28153045,
+      "longitude": 114.1323575
+    },
+    "name": {
+      "en": "Pok Fu Lam Station",
+      "zh_Hant": "薄扶林站",
+      "zh_Hans": "薄扶林站"
+    },
+    "address": {
+      "en": "(Adjacent to Pokfield Bus Terminus) 80 Pokfulam Road, Hong Kong",
+      "zh_Hant": "香港薄扶林道80號（蒲飛路巴士總站旁）",
+      "zh_Hans": "香港薄扶林道80号（蒲飞路巴士总站旁）"
+    },
+    "type": {
+      "en": "PetroChina",
+      "zh_Hant": "中國石油",
+      "zh_Hans": "中国石油"
+    },
+    "stand_id": 26,
+    "image_url": "images/petrol_stations/HKI26.png"
+  },
+  {
+    "location": {
+      "latitude": 22.2665505550809,
+      "longitude": 114.247149378061
+    },
+    "name": {
+      "en": "Chai Wan Station",
+      "zh_Hant": "柴灣站",
+      "zh_Hans": "柴湾站"
+    },
+    "address": {
+      "en": "6 Sun Yip Street, Chai Wan, Hong Kong (Honor Ind. Centre)",
+      "zh_Hant": "香港柴灣新業街6號 (安力工業中心)",
+      "zh_Hans": "香港柴湾新业街6号 (安力工业中心)"
+    },
+    "type": {
+      "en": "Caltex",
+      "zh_Hant": "加德士",
+      "zh_Hans": "加德士"
+    },
+    "stand_id": 27,
+    "image_url": "images/petrol_stations/HKI27.png"
+  },
+  {
+    "location": {
+      "latitude": 22.283257863498,
+      "longitude": 114.222052618861
+    },
+    "name": {
+      "en": "Shaukiwan Station",
+      "zh_Hant": "筲箕灣站",
+      "zh_Hans": "筲箕湾站"
+    },
+    "address": {
+      "en": "Tai On Building, Shaukiwan, Hong Kong",
+      "zh_Hant": "香港筲箕灣太安樓",
+      "zh_Hans": "香港筲箕湾太安楼"
+    },
+    "type": {
+      "en": "Caltex",
+      "zh_Hant": "加德士",
+      "zh_Hans": "加德士"
+    },
+    "stand_id": 28,
+    "image_url": "images/petrol_stations/HKI28.png"
+  },
+  {
+    "location": {
+      "latitude": 22.2482449977139,
+      "longitude": 114.164339527487
+    },
+    "name": {
+      "en": "Aberdeen Station",
+      "zh_Hant": "香港仔站",
+      "zh_Hans": "香港仔站"
+    },
+    "address": {
+      "en": "Wong Chuk Hang Road, Aberdeen, Hong Kong",
+      "zh_Hant": "香港香港仔黃竹坑道",
+      "zh_Hans": "香港香港仔黄竹坑道"
+    },
+    "type": {
+      "en": "Caltex",
+      "zh_Hant": "加德士",
+      "zh_Hans": "加德士"
+    },
+    "stand_id": 29,
+    "image_url": "images/petrol_stations/HKI29.png"
+  },
+  {
+    "location": {
+      "latitude": 22.2825765794256,
+      "longitude": 114.184945598244
+    },
+    "name": {
+      "en": "Waterfront Station",
+      "zh_Hant": "海旁站",
+      "zh_Hans": "海旁站"
+    },
+    "address": {
+      "en": "j/o Gloucester Road & Paterson Street, Wan Chai, Hong Kong",
+      "zh_Hant": "香港灣仔告士打道 (百德新街口)",
+      "zh_Hans": "香港湾仔告士打道 (百德新街口)"
+    },
+    "type": {
+      "en": "Caltex",
+      "zh_Hant": "加德士",
+      "zh_Hans": "加德士"
+    },
+    "stand_id": 30,
+    "image_url": "images/petrol_stations/HKI30.png"
+  },
+  {
+    "location": {
+      "latitude": 22.267539087583,
+      "longitude": 114.186936467885
+    },
+    "name": {
+      "en": "Sing Woo Road Station",
+      "zh_Hant": "成和道站",
+      "zh_Hans": "成和道站"
+    },
+    "address": {
+      "en": "30 Sing Woo Road, Happy Valley, Hong Kong",
+      "zh_Hant": "香港跑馬地成和道30號",
+      "zh_Hans": "香港跑马地成和道30号"
+    },
+    "type": {
+      "en": "Caltex",
+      "zh_Hant": "加德士",
+      "zh_Hans": "加德士"
+    },
+    "stand_id": 31,
+    "image_url": "images/petrol_stations/HKI31.png"
+  },
+  {
+    "location": {
+      "latitude": 22.2820051172748,
+      "longitude": 114.132661297917
+    },
+    "name": {
+      "en": "Pok Fu Lam Road Station",
+      "zh_Hant": "薄扶林油站",
+      "zh_Hans": "薄扶林油站"
+    },
+    "address": {
+      "en": "76 Pok Fu Lam Road, Hong Kong",
+      "zh_Hant": "香港薄扶林道76號（蒲飛路巴士總站）",
+      "zh_Hans": "香港薄扶林道76号（蒲飞路巴士总站）"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 32,
+    "image_url": "images/petrol_stations/HKI32.png"
+  },
+  {
+    "location": {
+      "latitude": 22.238528,
+      "longitude": 114.199473
+    },
+    "name": {
+      "en": "Repulse Bay Station",
+      "zh_Hant": "淺水灣站",
+      "zh_Hans": "浅水湾站"
+    },
+    "address": {
+      "en": "Rural Building Lot No. 1196, South Bay Road, Repulse Bay (At the junction of South Bay Road)",
+      "zh_Hant": "香港淺水灣南灣道鄉郊建屋地段1196號 （南灣道路口）",
+      "zh_Hans": "香港浅水湾南湾道乡郊建屋地段1196号 （南湾道路口）"
+    },
+    "type": {
+      "en": "PetroChina",
+      "zh_Hant": "中國石油",
+      "zh_Hans": "中国石油"
+    },
+    "stand_id": 33,
+    "image_url": "images/petrol_stations/HKI33.png"
+  },
+  {
+    "location": {
+      "latitude": 22.27778392,
+      "longitude": 114.1763914
+    },
+    "name": {
+      "en": "Wan Chai Station",
+      "zh_Hant": "灣仔站",
+      "zh_Hans": "湾仔站"
+    },
+    "address": {
+      "en": "j/o Hennessy Road & Johnston Road, Wan Chai, Hong Kong",
+      "zh_Hant": "香港灣仔軒尼詩道 (莊士敦道口)",
+      "zh_Hans": "香港湾仔轩尼诗道 (庄士敦道口)"
+    },
+    "type": {
+      "en": "Caltex",
+      "zh_Hant": "加德士",
+      "zh_Hans": "加德士"
+    },
+    "stand_id": 34,
+    "image_url": "images/petrol_stations/HKI34.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3345615534758,
+      "longitude": 114.145808570957
+    },
+    "name": {
+      "en": "Mei Foo LPG Station",
+      "zh_Hant": "美孚石油氣站",
+      "zh_Hans": "美孚石油气站"
+    },
+    "address": {
+      "en": "111 Sham Mong Road, Mei Foo, Kowloon",
+      "zh_Hant": "美孚深旺道111號",
+      "zh_Hans": "美孚深旺道111号"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 36,
+    "image_url": "images/petrol_stations/KLN1.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3114186768059,
+      "longitude": 114.165839358382
+    },
+    "name": {
+      "en": "West Kowloon LPG Station",
+      "zh_Hant": "西九龍石油氣站",
+      "zh_Hans": "西九龙石油气站"
+    },
+    "address": {
+      "en": "2 Hau Cheung Street,Yau Ma Tei, Kowloon",
+      "zh_Hant": "九龍油麻地巧翔街2號",
+      "zh_Hans": "九龙油麻地巧翔街2号"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 37,
+    "image_url": "images/petrol_stations/KLN2.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3386057466641,
+      "longitude": 114.163457080721
+    },
+    "name": {
+      "en": "Tai Po Road Station",
+      "zh_Hant": "大埔道站",
+      "zh_Hans": "大埔道站"
+    },
+    "address": {
+      "en": "332 Tai Po Road, Kowloon (To Sham Shui Po, Near Mei Ho House/former North Kowloon Magistracy)",
+      "zh_Hant": "大埔道332號 (向深水埗方向，近美荷樓/前北九龍裁判法院)",
+      "zh_Hans": "大埔道332号 (向深水埗方向，近美荷楼/前北九龙裁判法院)"
+    },
+    "type": {
+      "en": "Esso",
+      "zh_Hant": "埃索",
+      "zh_Hans": "埃索"
+    },
+    "stand_id": 38,
+    "image_url": "images/petrol_stations/KLN3.png"
+  },
+  {
+    "location": {
+      "latitude": 22.314859,
+      "longitude": 114.221293
+    },
+    "name": {
+      "en": "Kwun Tong Road Station",
+      "zh_Hant": "觀塘道油站",
+      "zh_Hans": "观塘道油站"
+    },
+    "address": {
+      "en": "371 Kwun Tong Road, Kowloon",
+      "zh_Hant": "九龍觀塘道371號",
+      "zh_Hans": "九龙观塘道371号"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 39,
+    "image_url": "images/petrol_stations/KLN4.png"
+  },
+  {
+    "location": {
+      "latitude": 22.331475,
+      "longitude": 114.194842
+    },
+    "name": {
+      "en": "Kowloon City Station",
+      "zh_Hant": "九龍城站",
+      "zh_Hans": "九龙城站"
+    },
+    "address": {
+      "en": "No. 592 Prince Edward Road EAST (Opposite Former Kai Tak Airport), Hong Kong",
+      "zh_Hant": "九龍新蒲崗太子道東592號（舊啟德機場對面）",
+      "zh_Hans": "九龙新蒲岗太子道东592号（旧启德机场对面）"
+    },
+    "type": {
+      "en": "PetroChina",
+      "zh_Hant": "中國石油",
+      "zh_Hans": "中国石油"
+    },
+    "stand_id": 40,
+    "image_url": "images/petrol_stations/KLN5.png"
+  },
+  {
+    "location": {
+      "latitude": 22.314089,
+      "longitude": 114.222231
+    },
+    "name": {
+      "en": "Kwun Tong Station",
+      "zh_Hant": "觀塘站",
+      "zh_Hans": "观塘站"
+    },
+    "address": {
+      "en": "No. 373 Kwun Tong Road (Opposite Millennium City)",
+      "zh_Hant": "觀塘道373號（創紀之城對面）",
+      "zh_Hans": "观塘道373号（创纪之城对面）"
+    },
+    "type": {
+      "en": "PetroChina",
+      "zh_Hant": "中國石油",
+      "zh_Hans": "中国石油"
+    },
+    "stand_id": 41,
+    "image_url": "images/petrol_stations/KLN6.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3388048403123,
+      "longitude": 114.163504689931
+    },
+    "name": {
+      "en": "Sham Shui Po Station",
+      "zh_Hant": "深水埗站",
+      "zh_Hans": "深水埗站"
+    },
+    "address": {
+      "en": "(Toward Sham Shui Po. near Mei Ho House) 338 Tai Po Road, Sham Shui Po",
+      "zh_Hant": "九龍深水埗大埔道338號（往深水埗方向，近美荷樓）",
+      "zh_Hans": "九龙深水埗大埔道338号（往深水埗方向，近美荷楼）"
+    },
+    "type": {
+      "en": "PetroChina",
+      "zh_Hant": "中國石油",
+      "zh_Hans": "中国石油"
+    },
+    "stand_id": 42,
+    "image_url": "images/petrol_stations/KLN7.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3108433556776,
+      "longitude": 114.178032875061
+    },
+    "name": {
+      "en": "Homantin Station",
+      "zh_Hant": "何文田站",
+      "zh_Hans": "何文田站"
+    },
+    "address": {
+      "en": "(To the entrance of Cross-Harbour Tunnel, Oi Man Estate Next to SPCA) 107 Princess Margaret Road, Ho Man Tin, Kowloon",
+      "zh_Hant": "九龍何文田公主道107號 （往紅隧入口方向，愛民邨愛護動物協會側）",
+      "zh_Hans": "九龙何文田公主道107号 （往红隧入口方向，爱民邨爱护动物协会侧）"
+    },
+    "type": {
+      "en": "PetroChina",
+      "zh_Hant": "中國石油",
+      "zh_Hans": "中国石油"
+    },
+    "stand_id": 43,
+    "image_url": "images/petrol_stations/KLN8.png"
+  },
+  {
+    "location": {
+      "latitude": 22.334213,
+      "longitude": 114.153114
+    },
+    "name": {
+      "en": "Lai Chi Kok Station",
+      "zh_Hant": "荔枝角油站",
+      "zh_Hans": "荔枝角油站"
+    },
+    "address": {
+      "en": "779 Lai Chi Kok Road, Kowloon",
+      "zh_Hant": "九龍荔枝角道779號",
+      "zh_Hans": "九龙荔枝角道779号"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 44,
+    "image_url": "images/petrol_stations/KLN9.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3188847638616,
+      "longitude": 114.176015853881
+    },
+    "name": {
+      "en": "Waterloo Road Station",
+      "zh_Hant": "窩打老道站",
+      "zh_Hans": "窝打老道站"
+    },
+    "address": {
+      "en": "(Near Pui Ching Road) Waterloo Road, Kowloon",
+      "zh_Hant": "九龍窩打老道 (近培正道)",
+      "zh_Hans": "九龙窝打老道 (近培正道)"
+    },
+    "type": {
+      "en": "Caltex",
+      "zh_Hant": "加德士",
+      "zh_Hans": "加德士"
+    },
+    "stand_id": 45,
+    "image_url": "images/petrol_stations/KLN10.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3434291909773,
+      "longitude": 114.208421
+    },
+    "name": {
+      "en": "Po Kong Village Road Station",
+      "zh_Hant": "蒲崗村道站",
+      "zh_Hans": "蒲岗村道站"
+    },
+    "address": {
+      "en": "j/o Po Kong Village Road & Fung Shing Street, Diamond Hill, Kowloon",
+      "zh_Hant": "九龍鑽石山蒲崗村道與豐盛街交界",
+      "zh_Hans": "九龙钻石山蒲岗村道与丰盛街交界"
+    },
+    "type": {
+      "en": "Caltex",
+      "zh_Hant": "加德士",
+      "zh_Hans": "加德士"
+    },
+    "stand_id": 46,
+    "image_url": "images/petrol_stations/KLN11.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3350207718945,
+      "longitude": 114.159573242068
+    },
+    "name": {
+      "en": "Un Chau Street Station",
+      "zh_Hant": "元州街站",
+      "zh_Hans": "元州街站"
+    },
+    "address": {
+      "en": "j/o Pratas Street & Un Chau Street, Sham Shui Po, Kowloon",
+      "zh_Hant": "九龍深水埗元州街 (東沙島街口)",
+      "zh_Hans": "九龙深水埗元州街 (东沙岛街口)"
+    },
+    "type": {
+      "en": "Caltex",
+      "zh_Hant": "加德士",
+      "zh_Hans": "加德士"
+    },
+    "stand_id": 47,
+    "image_url": "images/petrol_stations/KLN12.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3308427334577,
+      "longitude": 114.165374860167
+    },
+    "name": {
+      "en": "Tai Po Road Station",
+      "zh_Hant": "大埔道站",
+      "zh_Hans": "大埔道站"
+    },
+    "address": {
+      "en": "j/o Tai Po Road & Un Chau Street, Sham Shui Po, Kowloon",
+      "zh_Hant": "九龍深水埗大埔道 (元州街口)",
+      "zh_Hans": "九龙深水埗大埔道 (元州街口)"
+    },
+    "type": {
+      "en": "Caltex",
+      "zh_Hant": "加德士",
+      "zh_Hans": "加德士"
+    },
+    "stand_id": 48,
+    "image_url": "images/petrol_stations/KLN13.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3278834206045,
+      "longitude": 114.171991869807
+    },
+    "name": {
+      "en": "Tai Hang Tung Station",
+      "zh_Hant": "大坑東站",
+      "zh_Hans": "大坑东站"
+    },
+    "address": {
+      "en": "j/o Yau Yat Chuen Road & Tai Hang Tung Road, Shek Kip Mei, Kowloon",
+      "zh_Hant": "九龍石硤尾大坑東道 (又一村道口)",
+      "zh_Hans": "九龙石硖尾大坑东道 (又一村道口)"
+    },
+    "type": {
+      "en": "Caltex",
+      "zh_Hant": "加德士",
+      "zh_Hans": "加德士"
+    },
+    "stand_id": 49,
+    "image_url": "images/petrol_stations/KLN14.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3156472889562,
+      "longitude": 114.177226871252
+    },
+    "name": {
+      "en": "Princess Margaret Road Station",
+      "zh_Hant": "公主道站",
+      "zh_Hans": "公主道站"
+    },
+    "address": {
+      "en": "(Opposite Oi Man Estate) Princess Margaret Road, Ho Man Tin, Kowloon",
+      "zh_Hant": "九龍何文田公主道 (愛民邨對面)",
+      "zh_Hans": "九龙何文田公主道 (爱民邨对面)"
+    },
+    "type": {
+      "en": "Caltex",
+      "zh_Hant": "加德士",
+      "zh_Hans": "加德士"
+    },
+    "stand_id": 50,
+    "image_url": "images/petrol_stations/KLN15.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3079890809886,
+      "longitude": 114.188014715909
+    },
+    "name": {
+      "en": "Tai Wan Road Station",
+      "zh_Hant": "大環道站",
+      "zh_Hans": "大环道站"
+    },
+    "address": {
+      "en": "Tai Wan Road, Hunghom, Kowloon",
+      "zh_Hant": "九龍紅磡大環道",
+      "zh_Hans": "九龙红磡大环道"
+    },
+    "type": {
+      "en": "Caltex",
+      "zh_Hant": "加德士",
+      "zh_Hans": "加德士"
+    },
+    "stand_id": 51,
+    "image_url": "images/petrol_stations/KLN16.png"
+  },
+  {
+    "location": {
+      "latitude": 22.317872,
+      "longitude": 114.212456
+    },
+    "name": {
+      "en": "Kowloon Bay LPG Station",
+      "zh_Hant": "九龍灣石油氣站",
+      "zh_Hans": "九龙湾石油气站"
+    },
+    "address": {
+      "en": "2K Cheung Yip Street, Kowloon Bay, Kowloon",
+      "zh_Hant": "九龍九龍灣祥業街2K號",
+      "zh_Hans": "九龙九龙湾祥业街2K号"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 52,
+    "image_url": "images/petrol_stations/KLN17.png"
+  },
+  {
+    "location": {
+      "latitude": 22.304085,
+      "longitude": 114.225481
+    },
+    "name": {
+      "en": "Kwun Tong LPG Station",
+      "zh_Hant": "觀塘石油氣站",
+      "zh_Hans": "观塘石油气站"
+    },
+    "address": {
+      "en": "9 Wai Lok Street, Cha Kwo Ling, Kwun Tong, Kowloon",
+      "zh_Hant": "九龍觀塘茶果嶺偉樂街9號",
+      "zh_Hans": "九龙观塘茶果岭伟乐街9号"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 53,
+    "image_url": "images/petrol_stations/KLN18.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3402208159085,
+      "longitude": 114.173737317323
+    },
+    "name": {
+      "en": "Kowloon Tong Station",
+      "zh_Hant": "九龍塘油氣站",
+      "zh_Hans": "九龙塘油气站"
+    },
+    "address": {
+      "en": "18E Cornwall Street, Kowloon Tong, Kowloon",
+      "zh_Hant": "九龍九龍塘歌和老街18E號 (歌和老街公園對面)",
+      "zh_Hans": "九龙九龙塘歌和老街18E号 (歌和老街公园对面)"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 54,
+    "image_url": "images/petrol_stations/KLN19.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3191273078179,
+      "longitude": 114.176157340407
+    },
+    "name": {
+      "en": "Waterloo Road Station",
+      "zh_Hant": "窩打老道油站",
+      "zh_Hans": "窝打老道油站"
+    },
+    "address": {
+      "en": "82B Waterloo Road, Kowloon",
+      "zh_Hant": "九龍窩打老道82B號",
+      "zh_Hans": "九龙窝打老道82B号"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 55,
+    "image_url": "images/petrol_stations/KLN20.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3227201346501,
+      "longitude": 114.204147532582
+    },
+    "name": {
+      "en": "Wan Chin Street Station",
+      "zh_Hant": "宏展街油氣站",
+      "zh_Hans": "宏展街油气站"
+    },
+    "address": {
+      "en": "16 Wang Chin Street, Kowloon Bay, Kowloon",
+      "zh_Hant": "九龍九龍灣宏展街16號 (國際展貿中心旁)",
+      "zh_Hans": "九龙九龙湾宏展街16号 (国际展贸中心旁)"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 56,
+    "image_url": "images/petrol_stations/KLN21.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3244991451869,
+      "longitude": 114.171979799866
+    },
+    "name": {
+      "en": "Prince Edward Road West Station",
+      "zh_Hant": "太子道西油站",
+      "zh_Hans": "太子道西油站"
+    },
+    "address": {
+      "en": "187A Prince Edward Road West, Kowloon",
+      "zh_Hant": "九龍太子道西187A號 （近帝京酒店）",
+      "zh_Hans": "九龙太子道西187A号 （近帝京酒店）"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 57,
+    "image_url": "images/petrol_stations/KLN22.png"
+  },
+  {
+    "location": {
+      "latitude": 22.33754763048,
+      "longitude": 114.146270155906
+    },
+    "name": {
+      "en": "Tung Chau Street Station",
+      "zh_Hant": "通州街站",
+      "zh_Hans": "通州街站"
+    },
+    "address": {
+      "en": "493-495 Castle Peak Road, Sham Shui Po, Kowloon",
+      "zh_Hant": "九龍深水埗青山道493-495號 (通州街交界)",
+      "zh_Hans": "九龙深水埗青山道493-495号 (通州街交界)"
+    },
+    "type": {
+      "en": "Shell",
+      "zh_Hant": "蚬殼",
+      "zh_Hans": "壳牌"
+    },
+    "stand_id": 58,
+    "image_url": "images/petrol_stations/KLN23.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3263811002636,
+      "longitude": 114.168971031904
+    },
+    "name": {
+      "en": "Tung Choi Street Station",
+      "zh_Hant": "通菜街站",
+      "zh_Hans": "通菜街站"
+    },
+    "address": {
+      "en": "48-50 Boundary Street, Mong Kok, Kowloon",
+      "zh_Hant": "九龍旺角界限街48-50號 (通菜街交界)",
+      "zh_Hans": "九龙旺角界限街48-50号 (通菜街交界)"
+    },
+    "type": {
+      "en": "Shell",
+      "zh_Hant": "蚬殼",
+      "zh_Hans": "壳牌"
+    },
+    "stand_id": 59,
+    "image_url": "images/petrol_stations/KLN24.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3206247437787,
+      "longitude": 114.205519482493
+    },
+    "name": {
+      "en": "Kowloon Bay (West) Station",
+      "zh_Hant": "九龍灣(西)站",
+      "zh_Hans": "九龙湾(西)站"
+    },
+    "address": {
+      "en": "(Towards Tokwawan) 6 Kai Fuk Road, Kowloon Bay, Kowloon",
+      "zh_Hant": "九龍九龍灣啟福道6號 (向土瓜灣方向)",
+      "zh_Hans": "九龙九龙湾启福道6号 (向土瓜湾方向)"
+    },
+    "type": {
+      "en": "Shell",
+      "zh_Hant": "蚬殼",
+      "zh_Hans": "壳牌"
+    },
+    "stand_id": 60,
+    "image_url": "images/petrol_stations/KLN25.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3158885978764,
+      "longitude": 114.177418649196
+    },
+    "name": {
+      "en": "Princess Margaret Road Station",
+      "zh_Hant": "公主道站",
+      "zh_Hans": "公主道站"
+    },
+    "address": {
+      "en": "58 Princess Margaret Road, Ho Man Tin, Kowloon",
+      "zh_Hant": "九龍何文田公主道58號",
+      "zh_Hans": "九龙何文田公主道58号"
+    },
+    "type": {
+      "en": "Shell",
+      "zh_Hant": "蚬殼",
+      "zh_Hans": "壳牌"
+    },
+    "stand_id": 61,
+    "image_url": "images/petrol_stations/KLN26.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3204653240615,
+      "longitude": 114.166040048003
+    },
+    "name": {
+      "en": "Tong Mei Road Station",
+      "zh_Hant": "塘尾道站",
+      "zh_Hans": "塘尾道站"
+    },
+    "address": {
+      "en": "2 Mong Kok Road, Mong Kok, Kowloon",
+      "zh_Hant": "九龍旺角旺角道2號 (塘尾道交界)",
+      "zh_Hans": "九龙旺角旺角道2号 (塘尾道交界)"
+    },
+    "type": {
+      "en": "Shell",
+      "zh_Hant": "蚬殼",
+      "zh_Hans": "壳牌"
+    },
+    "stand_id": 62,
+    "image_url": "images/petrol_stations/KLN27.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3168600326514,
+      "longitude": 114.187801480293
+    },
+    "name": {
+      "en": "Matauwei Road Station",
+      "zh_Hant": "馬頭圍道站",
+      "zh_Hans": "马头围道站"
+    },
+    "address": {
+      "en": "163 Matauwei Road, To Kwa Wan, Kowloon",
+      "zh_Hant": "九龍土瓜灣馬頭圍道163號",
+      "zh_Hans": "九龙土瓜湾马头围道163号"
+    },
+    "type": {
+      "en": "Shell",
+      "zh_Hant": "蚬殼",
+      "zh_Hans": "壳牌"
+    },
+    "stand_id": 63,
+    "image_url": "images/petrol_stations/KLN28.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3310002805269,
+      "longitude": 114.165219292044
+    },
+    "name": {
+      "en": "Tai Po Road Station",
+      "zh_Hant": "大埔道站",
+      "zh_Hans": "大埔道站"
+    },
+    "address": {
+      "en": "(J/O Nam Cheong Street) 45B Tai Po Road, Sham Shui Po",
+      "zh_Hant": "九龍深水埗大埔道45B號 (南昌街交界)",
+      "zh_Hans": "九龙深水埗大埔道45B号 (南昌街交界)"
+    },
+    "type": {
+      "en": "Shell",
+      "zh_Hant": "蚬殼",
+      "zh_Hans": "壳牌"
+    },
+    "stand_id": 64,
+    "image_url": "images/petrol_stations/KLN29.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3206576201957,
+      "longitude": 114.162145480513
+    },
+    "name": {
+      "en": "Tai Kok Tsui Station",
+      "zh_Hant": "大角咀站",
+      "zh_Hans": "大角咀站"
+    },
+    "address": {
+      "en": "82 Tai Kok Tsui Road, Tai Kok Tsui, Kowloon",
+      "zh_Hant": "九龍大角咀大角咀道82號 (晏架街交界)",
+      "zh_Hans": "九龙大角咀大角咀道82号 (晏架街交界)"
+    },
+    "type": {
+      "en": "Shell",
+      "zh_Hant": "蚬殼",
+      "zh_Hans": "壳牌"
+    },
+    "stand_id": 65,
+    "image_url": "images/petrol_stations/KLN30.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3279814244246,
+      "longitude": 114.172002598643
+    },
+    "name": {
+      "en": "Tai Hang Tung Road Station",
+      "zh_Hant": "大坑東道站",
+      "zh_Hans": "大坑东道站"
+    },
+    "address": {
+      "en": "17 Tai Hang Tung Road, Shek Kip Mei, Kowloon",
+      "zh_Hant": "九龍石硤尾大坑東道17號",
+      "zh_Hans": "九龙石硖尾大坑东道17号"
+    },
+    "type": {
+      "en": "Shell",
+      "zh_Hant": "蚬殼",
+      "zh_Hans": "壳牌"
+    },
+    "stand_id": 66,
+    "image_url": "images/petrol_stations/KLN31.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3312347400091,
+      "longitude": 114.194551259279
+    },
+    "name": {
+      "en": "Kai Tak Station",
+      "zh_Hant": "啟德站",
+      "zh_Hans": "启德站"
+    },
+    "address": {
+      "en": "590 Prince Edward Road East, Kowloon City, Kowloon",
+      "zh_Hant": "九龍九龍城太子道東590號",
+      "zh_Hans": "九龙九龙城太子道东590号"
+    },
+    "type": {
+      "en": "Shell",
+      "zh_Hant": "蚬殼",
+      "zh_Hans": "壳牌"
+    },
+    "stand_id": 67,
+    "image_url": "images/petrol_stations/KLN32.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3102261027834,
+      "longitude": 114.229023009538
+    },
+    "name": {
+      "en": "Lei Yue Mun Road Station",
+      "zh_Hant": "鯉魚門道站",
+      "zh_Hans": "鲤鱼门道站"
+    },
+    "address": {
+      "en": "8 Lei Yue Mun Road, Kwun Tong, Kowloon",
+      "zh_Hant": "九龍觀塘鯉魚門道8號",
+      "zh_Hans": "九龙观塘鲤鱼门道8号"
+    },
+    "type": {
+      "en": "Shell",
+      "zh_Hant": "蚬殼",
+      "zh_Hans": "壳牌"
+    },
+    "stand_id": 68,
+    "image_url": "images/petrol_stations/KLN33.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3215328744137,
+      "longitude": 114.20554831624
+    },
+    "name": {
+      "en": "Kowloon Bay (East) Station",
+      "zh_Hant": "九龍灣(東)站",
+      "zh_Hans": "九龙湾(东)站"
+    },
+    "address": {
+      "en": "(Towards Kwun Tong) 5 Kai Fuk Road, Kowloon Bay, Kowloon",
+      "zh_Hant": "九龍九龍灣啟福道5號 (向觀塘方向)",
+      "zh_Hans": "九龙九龙湾启福道5号 (向观塘方向)"
+    },
+    "type": {
+      "en": "Shell",
+      "zh_Hant": "蚬殼",
+      "zh_Hans": "壳牌"
+    },
+    "stand_id": 69,
+    "image_url": "images/petrol_stations/KLN34.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3268463126681,
+      "longitude": 114.177469611167
+    },
+    "name": {
+      "en": "Boundary Street Station",
+      "zh_Hant": "界限街站",
+      "zh_Hans": "界限街站"
+    },
+    "address": {
+      "en": "126-128 Boundary Street, Kowloon",
+      "zh_Hant": "九龍界限街126-128號",
+      "zh_Hans": "九龙界限街126-128号"
+    },
+    "type": {
+      "en": "Shell",
+      "zh_Hant": "蚬殼",
+      "zh_Hans": "壳牌"
+    },
+    "stand_id": 70,
+    "image_url": "images/petrol_stations/KLN35.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3201353184653,
+      "longitude": 114.174615740776
+    },
+    "name": {
+      "en": "Argyle Street Station",
+      "zh_Hant": "亞皆老街站",
+      "zh_Hans": "亚皆老街站"
+    },
+    "address": {
+      "en": "108 Argyle Street, Mong Kok, Kowloon",
+      "zh_Hant": "九龍旺角亞皆老街108號 (梭椏道交界)",
+      "zh_Hans": "九龙旺角亚皆老街108号 (梭桠道交界)"
+    },
+    "type": {
+      "en": "Shell",
+      "zh_Hant": "蚬殼",
+      "zh_Hans": "壳牌"
+    },
+    "stand_id": 71,
+    "image_url": "images/petrol_stations/KLN36.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3159220957398,
+      "longitude": 114.232974573969
+    },
+    "name": {
+      "en": "Hiu Kwong Street Station",
+      "zh_Hant": "曉光街站",
+      "zh_Hans": "晓光街站"
+    },
+    "address": {
+      "en": "77 Hiu Kwong Street, Sau Mou Ping, Kowloon",
+      "zh_Hant": "九龍秀茂坪曉光街77號",
+      "zh_Hans": "九龙秀茂坪晓光街77号"
+    },
+    "type": {
+      "en": "Esso",
+      "zh_Hant": "埃索",
+      "zh_Hans": "埃索"
+    },
+    "stand_id": 72,
+    "image_url": "images/petrol_stations/KLN37.png"
+  },
+  {
+    "location": {
+      "latitude": 22.321026083661,
+      "longitude": 114.205068871378
+    },
+    "name": {
+      "en": "Kowloon Bay 2 Station",
+      "zh_Hant": "九龍灣2站",
+      "zh_Hans": "九龙湾2站"
+    },
+    "address": {
+      "en": "(Towards Kai Tak to Hung Hom) 4 Kai Fuk Road, Kowloon Bay, Kowloon",
+      "zh_Hant": "九龍九龍灣啟福道4號 (向舊機場往紅磡方向)",
+      "zh_Hans": "九龙九龙湾启福道4号 (向旧机场往红磡方向)"
+    },
+    "type": {
+      "en": "Esso",
+      "zh_Hant": "埃索",
+      "zh_Hans": "埃索"
+    },
+    "stand_id": 73,
+    "image_url": "images/petrol_stations/KLN38.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3213579480706,
+      "longitude": 114.205650910735
+    },
+    "name": {
+      "en": "Kowloon Bay 1 Station",
+      "zh_Hant": "九龍灣1站",
+      "zh_Hans": "九龙湾1站"
+    },
+    "address": {
+      "en": "(Towards Kwun Tong) 7 Kai Fuk Road, Kowloon Bay, Kowloon",
+      "zh_Hant": "九龍九龍灣啟福道7號 (往觀塘方向)",
+      "zh_Hans": "九龙九龙湾启福道7号 (往观塘方向)"
+    },
+    "type": {
+      "en": "Esso",
+      "zh_Hant": "埃索",
+      "zh_Hans": "埃索"
+    },
+    "stand_id": 74,
+    "image_url": "images/petrol_stations/KLN39.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3315566559577,
+      "longitude": 114.194914028048
+    },
+    "name": {
+      "en": "Kai Tak Station",
+      "zh_Hant": "啟德站",
+      "zh_Hans": "启德站"
+    },
+    "address": {
+      "en": "(Opposite to former Kai Tak airport) 594 Prince Edward Road East, Kowloon City, Kowloon",
+      "zh_Hant": "九龍九龍城太子道東594號 (舊機場對面)",
+      "zh_Hans": "九龙九龙城太子道东594号 (旧机场对面)"
+    },
+    "type": {
+      "en": "Esso",
+      "zh_Hant": "埃索",
+      "zh_Hans": "埃索"
+    },
+    "stand_id": 75,
+    "image_url": "images/petrol_stations/KLN40.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3082843748815,
+      "longitude": 114.184153676033
+    },
+    "name": {
+      "en": "Wuhu Street Station",
+      "zh_Hant": "蕪湖街站",
+      "zh_Hans": "芜湖街站"
+    },
+    "address": {
+      "en": "(Near Chatham Road) 165-171 Wuhu Street, Hung Hom, Kowloon",
+      "zh_Hant": "九龍紅磡蕪湖街165-171號 (近漆咸道)",
+      "zh_Hans": "九龙红磡芜湖街165-171号 (近漆咸道)"
+    },
+    "type": {
+      "en": "Esso",
+      "zh_Hant": "埃索",
+      "zh_Hans": "埃索"
+    },
+    "stand_id": 76,
+    "image_url": "images/petrol_stations/KLN41.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3186602087233,
+      "longitude": 114.17584888637
+    },
+    "name": {
+      "en": "Homantin Station",
+      "zh_Hant": "何文田站",
+      "zh_Hans": "何文田站"
+    },
+    "address": {
+      "en": "(Junction of Waterloo Road and Pui Ching Road) 82 Waterloo Road, Kowloon",
+      "zh_Hant": "九龍窩打老道82號 (與培正道交界)",
+      "zh_Hans": "九龙窝打老道82号 (与培正道交界)"
+    },
+    "type": {
+      "en": "Esso",
+      "zh_Hant": "埃索",
+      "zh_Hans": "埃索"
+    },
+    "stand_id": 77,
+    "image_url": "images/petrol_stations/KLN42.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3202358089739,
+      "longitude": 114.166435673832
+    },
+    "name": {
+      "en": "Mongkok Road Station",
+      "zh_Hant": "旺角道站",
+      "zh_Hans": "旺角道站"
+    },
+    "address": {
+      "en": "(Opposite to Dynasty Theatre) 15 Mongkok Road, Mong Kok, Kowloon",
+      "zh_Hant": "九龍旺角旺角道15號",
+      "zh_Hans": "九龙旺角旺角道15号"
+    },
+    "type": {
+      "en": "Esso",
+      "zh_Hant": "埃索",
+      "zh_Hans": "埃索"
+    },
+    "stand_id": 78,
+    "image_url": "images/petrol_stations/KLN43.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3270528664784,
+      "longitude": 114.176502674818
+    },
+    "name": {
+      "en": "Boundary Street Station",
+      "zh_Hant": "界限街站",
+      "zh_Hans": "界限街站"
+    },
+    "address": {
+      "en": "(Near Funful Sear Rogers International School) 113 Boundary Street, Kowloon Tong, Kowloon",
+      "zh_Hant": "九龍九龍塘界限街113號 (近方方樂趣弘爵國際學校)",
+      "zh_Hans": "九龙九龙塘界限街113号 (近方方乐趣弘爵国际学校)"
+    },
+    "type": {
+      "en": "Esso",
+      "zh_Hant": "埃索",
+      "zh_Hans": "埃索"
+    },
+    "stand_id": 79,
+    "image_url": "images/petrol_stations/KLN44.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3395757828167,
+      "longitude": 114.151247665286
+    },
+    "name": {
+      "en": "Castle Peak Road Station",
+      "zh_Hant": "青山道站",
+      "zh_Hans": "青山道站"
+    },
+    "address": {
+      "en": "(Near Caritas Medical Centre) 528-530 Castle Peak Road, Cheung Sha Wan, Kowloon",
+      "zh_Hant": "九龍長沙灣青山道528-530號 (近明愛醫院)",
+      "zh_Hans": "九龙长沙湾青山道528-530号 (近明爱医院)"
+    },
+    "type": {
+      "en": "Esso",
+      "zh_Hant": "埃索",
+      "zh_Hans": "埃索"
+    },
+    "stand_id": 80,
+    "image_url": "images/petrol_stations/KLN45.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3352825153857,
+      "longitude": 114.141706
+    },
+    "name": {
+      "en": "Broadway Street Station",
+      "zh_Hant": "百老匯街站",
+      "zh_Hans": "百老汇街站"
+    },
+    "address": {
+      "en": "(MFSC Stage 8) 94-132 Broadway Street, Mei Foo, Kowloon",
+      "zh_Hant": "九龍美孚美孚新邨第8期百老匯街94-132號",
+      "zh_Hans": "九龙美孚美孚新邨第8期百老汇街94-132号"
+    },
+    "type": {
+      "en": "Esso",
+      "zh_Hant": "埃索",
+      "zh_Hans": "埃索"
+    },
+    "stand_id": 81,
+    "image_url": "images/petrol_stations/KLN46.png"
+  },
+  {
+    "location": {
+      "latitude": 22.338226165463,
+      "longitude": 114.140630811452
+    },
+    "name": {
+      "en": "Nassau Street Station",
+      "zh_Hant": "蘭秀街站",
+      "zh_Hans": "兰秀街站"
+    },
+    "address": {
+      "en": "(MFSC Stage 6) NKIL 5085, Nassau Street, Mei Foo, Kowloon",
+      "zh_Hant": "九龍美孚美孚新邨第6期蘭秀道5085地段",
+      "zh_Hans": "九龙美孚美孚新邨第6期兰秀道5085地段"
+    },
+    "type": {
+      "en": "Esso",
+      "zh_Hant": "埃索",
+      "zh_Hans": "埃索"
+    },
+    "stand_id": 82,
+    "image_url": "images/petrol_stations/KLN47.png"
+  },
+  {
+    "location": {
+      "latitude": 22.336307,
+      "longitude": 114.14989
+    },
+    "name": {
+      "en": "Lai Chi Kok Station",
+      "zh_Hant": "荔枝角站",
+      "zh_Hans": "荔枝角站"
+    },
+    "address": {
+      "en": "G/F, Goodluck Industrial Centre, No. 808 Lai Chi Kok Road, Cheung Sha Wan",
+      "zh_Hant": "長沙灣荔枝角道808號好運工業中心地下",
+      "zh_Hans": "长沙湾荔枝角道808号好运工业中心地下"
+    },
+    "type": {
+      "en": "PetroChina",
+      "zh_Hant": "中國石油",
+      "zh_Hans": "中国石油"
+    },
+    "stand_id": 83,
+    "image_url": "images/petrol_stations/KLN48.png"
+  },
+  {
+    "location": {
+      "latitude": 22.34333554,
+      "longitude": 114.1801109
+    },
+    "name": {
+      "en": "Kowloon Tong Station",
+      "zh_Hant": "九龍塘站",
+      "zh_Hans": "九龙塘站"
+    },
+    "address": {
+      "en": "No. 201 Waterloo Road, Kowloon Tong (To the entrance of Lion Rock Tunnel northbound tunnel tube)",
+      "zh_Hant": "窩打老道201號（往獅子山隧道入口方向）",
+      "zh_Hans": "窝打老道201号（往狮子山隧道入口方向）"
+    },
+    "type": {
+      "en": "PetroChina",
+      "zh_Hant": "中國石油",
+      "zh_Hans": "中国石油"
+    },
+    "stand_id": 84,
+    "image_url": "images/petrol_stations/KLN49.png"
+  },
+  {
+    "location": {
+      "latitude": 22.415124,
+      "longitude": 114.226522
+    },
+    "name": {
+      "en": "Ma On Shan Dedicated LPG Station",
+      "zh_Hant": "馬鞍山專用石油氣站",
+      "zh_Hans": "马鞍山专用石油气站"
+    },
+    "address": {
+      "en": "11 Hang Yiu Street, Ma On Shan, Sha Tin, New Territories",
+      "zh_Hant": "新界沙田馬鞍山恆耀街11號",
+      "zh_Hans": "新界沙田马鞍山恒耀街11号"
+    },
+    "type": {
+      "en": "Shell",
+      "zh_Hant": "蚬殼",
+      "zh_Hans": "壳牌"
+    },
+    "stand_id": 85,
+    "image_url": "images/petrol_stations/NT1.png"
+  },
+  {
+    "location": {
+      "latitude": 22.45195,
+      "longitude": 114.03068
+    },
+    "name": {
+      "en": "Yuen Long Dedicated LPG Station",
+      "zh_Hant": "元朗專用石油氣站",
+      "zh_Hans": "元朗专用石油气站"
+    },
+    "address": {
+      "en": "16 Tak Yip Street, Yuen Long, Tung Tau Industrial Area, Yuen Long, New Territories",
+      "zh_Hant": "新界元朗東頭工業區德業街16號",
+      "zh_Hans": "新界元朗东头工业区德业街16号"
+    },
+    "type": {
+      "en": "Shell",
+      "zh_Hant": "蚬殼",
+      "zh_Hans": "壳牌"
+    },
+    "stand_id": 86,
+    "image_url": "images/petrol_stations/NT2.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3903230800946,
+      "longitude": 113.968791749031
+    },
+    "name": {
+      "en": "Tuen Mun Dedicated LPG Station",
+      "zh_Hant": "屯門專用石油氣站",
+      "zh_Hans": "屯门专用石油气站"
+    },
+    "address": {
+      "en": "7 Yip Wong Road, Tuen Mun, New Territories",
+      "zh_Hant": "新界屯門業旺路7號",
+      "zh_Hans": "新界屯门业旺路7号"
+    },
+    "type": {
+      "en": "Shell",
+      "zh_Hant": "蚬殼",
+      "zh_Hans": "壳牌"
+    },
+    "stand_id": 87,
+    "image_url": "images/petrol_stations/NT3.png"
+  },
+  {
+    "location": {
+      "latitude": 22.29273717816,
+      "longitude": 113.928584741985
+    },
+    "name": {
+      "en": "Airport (Cargo Terminal) Gas and Charging Station",
+      "zh_Hant": "Shell機場（貨運中心）油電站",
+      "zh_Hans": "Shell机场（货运中心）油电站"
+    },
+    "address": {
+      "en": "10 Chek Lap Kok South Road, H.K. International Airport, Chek Lap Kok, Lantau Island",
+      "zh_Hant": "香港大嶼山赤鱲角機場赤鱲角南路10號",
+      "zh_Hans": "香港大屿山赤鱲角机场赤鱲角南路10号"
+    },
+    "type": {
+      "en": "Shell",
+      "zh_Hant": "蚬殼",
+      "zh_Hans": "壳牌"
+    },
+    "stand_id": 88,
+    "image_url": "images/petrol_stations/NT4.png"
+  },
+  {
+    "location": {
+      "latitude": 22.4410325092906,
+      "longitude": 114.029271528124
+    },
+    "name": {
+      "en": "Tai Tong Road Station",
+      "zh_Hant": "大棠路油站",
+      "zh_Hans": "大棠路油站"
+    },
+    "address": {
+      "en": "90 Tai Tong Road, Yuen Long, N.T.",
+      "zh_Hant": "新界元朗大棠路90號",
+      "zh_Hans": "新界元朗大棠路90号"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 89,
+    "image_url": "images/petrol_stations/NT5.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3803434465165,
+      "longitude": 114.199387282133
+    },
+    "name": {
+      "en": "Kong Pui Street Station",
+      "zh_Hant": "崗背街油站",
+      "zh_Hans": "岗背街油站"
+    },
+    "address": {
+      "en": "20 Kong Pui Street, Shatin, New Territories",
+      "zh_Hant": "新界沙田崗背街20號",
+      "zh_Hans": "新界沙田岗背街20号"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 90,
+    "image_url": "images/petrol_stations/NT6.png"
+  },
+  {
+    "location": {
+      "latitude": 22.4912031713496,
+      "longitude": 114.145553213157
+    },
+    "name": {
+      "en": "Fanling Station",
+      "zh_Hant": "粉嶺站",
+      "zh_Hans": "粉岭站"
+    },
+    "address": {
+      "en": "338 Jockey Club Road, Fanling, New Territories",
+      "zh_Hant": "新界粉嶺馬會道338號",
+      "zh_Hans": "新界粉岭马会道338号"
+    },
+    "type": {
+      "en": "PetroChina",
+      "zh_Hant": "中國石油",
+      "zh_Hans": "中国石油"
+    },
+    "stand_id": 91,
+    "image_url": "images/petrol_stations/NT7.png"
+  },
+  {
+    "location": {
+      "latitude": 22.4511239103534,
+      "longitude": 114.163688421249
+    },
+    "name": {
+      "en": "Tai Po Station",
+      "zh_Hant": "大埔站",
+      "zh_Hans": "大埔站"
+    },
+    "address": {
+      "en": "No. 1P Kwong Fuk Road, Tai Po (Near Fire Station)",
+      "zh_Hant": "新界大埔廣福道1號P（近消防局）",
+      "zh_Hans": "新界大埔广福道1号P（近消防局）"
+    },
+    "type": {
+      "en": "PetroChina",
+      "zh_Hant": "中國石油",
+      "zh_Hans": "中国石油"
+    },
+    "stand_id": 92,
+    "image_url": "images/petrol_stations/NT8.png"
+  },
+  {
+    "location": {
+      "latitude": 22.376393,
+      "longitude": 114.177526
+    },
+    "name": {
+      "en": "Tai Wai Station",
+      "zh_Hant": "大圍站",
+      "zh_Hans": "大围站"
+    },
+    "address": {
+      "en": "No. 1 Chik Chuen Street, Tai Wai",
+      "zh_Hant": "沙田大圍積存街1號",
+      "zh_Hans": "沙田大围积存街1号"
+    },
+    "type": {
+      "en": "PetroChina",
+      "zh_Hant": "中國石油",
+      "zh_Hans": "中国石油"
+    },
+    "stand_id": 93,
+    "image_url": "images/petrol_stations/NT9.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3545248981164,
+      "longitude": 114.125600382685
+    },
+    "name": {
+      "en": "Container Port Road Station",
+      "zh_Hant": "貨櫃碼頭路油站",
+      "zh_Hans": "货柜码头路油站"
+    },
+    "address": {
+      "en": "108 Container Port Road, Kwai Chung, New Territories",
+      "zh_Hant": "新界葵涌貨櫃碼頭路108號",
+      "zh_Hans": "新界葵涌货柜码头路108号"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 94,
+    "image_url": "images/petrol_stations/NT10.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3664246216581,
+      "longitude": 114.003943428397
+    },
+    "name": {
+      "en": "Siu Lam Station",
+      "zh_Hant": "小欖站",
+      "zh_Hans": "小榄站"
+    },
+    "address": {
+      "en": "(Tai Lam) 98 Castle Peak Road, Tuen Mun, New Territories",
+      "zh_Hant": "新界屯門青山公路大欖段98號",
+      "zh_Hans": "新界屯门青山公路大榄段98号"
+    },
+    "type": {
+      "en": "Shell",
+      "zh_Hant": "蚬殼",
+      "zh_Hans": "壳牌"
+    },
+    "stand_id": 95,
+    "image_url": "images/petrol_stations/NT11.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3347125093803,
+      "longitude": 114.229768663644
+    },
+    "name": {
+      "en": "Clear Water Bay Station",
+      "zh_Hant": "清水灣站",
+      "zh_Hans": "清水湾站"
+    },
+    "address": {
+      "en": "Clear Water Bay Road, Kowloon (Near Anderson Road)",
+      "zh_Hant": "九龍清水灣道 (近安達臣道)",
+      "zh_Hans": "九龙清水湾道 (近安达臣道)"
+    },
+    "type": {
+      "en": "Esso",
+      "zh_Hant": "埃索",
+      "zh_Hans": "埃索"
+    },
+    "stand_id": 96,
+    "image_url": "images/petrol_stations/NT12.png"
+  },
+  {
+    "location": {
+      "latitude": 22.334075,
+      "longitude": 114.233072
+    },
+    "name": {
+      "en": "Tseng Lan Shue Station",
+      "zh_Hant": "井欄樹油氣站",
+      "zh_Hans": "井栏树油气站"
+    },
+    "address": {
+      "en": "233 Clear Water Bay, Sai Kung, New Territories",
+      "zh_Hant": "新界西貢清水灣道233號",
+      "zh_Hans": "新界西贡清水湾道233号"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 97,
+    "image_url": "images/petrol_stations/NT13.png"
+  },
+  {
+    "location": {
+      "latitude": 22.350876,
+      "longitude": 114.132674
+    },
+    "name": {
+      "en": "Sheung Kwai Chung Station",
+      "zh_Hant": "上葵涌油氣站",
+      "zh_Hans": "上葵涌油气站"
+    },
+    "address": {
+      "en": "101 Castle Peak Road, On Kwai Chung, Kwai Chung, New Territories",
+      "zh_Hant": "新界青山公路葵涌段101 號",
+      "zh_Hans": "新界青山公路葵涌段101 号"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 98,
+    "image_url": "images/petrol_stations/NT14.png"
+  },
+  {
+    "location": {
+      "latitude": 22.362377,
+      "longitude": 114.257147
+    },
+    "name": {
+      "en": "Sai Kung Station",
+      "zh_Hant": "西貢油氣站",
+      "zh_Hans": "西贡油气站"
+    },
+    "address": {
+      "en": "699 Hiram's Highway, Sai Kung, New Territories",
+      "zh_Hant": "新界西貢公路699號",
+      "zh_Hans": "新界西贡公路699号"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 99,
+    "image_url": "images/petrol_stations/NT15.png"
+  },
+  {
+    "location": {
+      "latitude": 22.294065,
+      "longitude": 113.952802
+    },
+    "name": {
+      "en": "Tung Chung 2 Station",
+      "zh_Hant": "東涌2油氣站",
+      "zh_Hans": "东涌2油气站"
+    },
+    "address": {
+      "en": "23 Hei Tung Street, Tung Chung New Town, Lantau Island, New Territoriess",
+      "zh_Hant": "新界大嶼山東涌新市鎮喜東街23號",
+      "zh_Hans": "新界大屿山东涌新市镇喜东街23号"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 100,
+    "image_url": "images/petrol_stations/NT16.png"
+  },
+  {
+    "location": {
+      "latitude": 22.355325,
+      "longitude": 114.099554
+    },
+    "name": {
+      "en": "Tsing Yi Station",
+      "zh_Hant": "青衣站",
+      "zh_Hans": "青衣站"
+    },
+    "address": {
+      "en": "171 Tsing Yi Road West, Tsing Yi, New Territories",
+      "zh_Hant": "青衣青衣西路171號",
+      "zh_Hans": "青衣青衣西路171号"
+    },
+    "type": {
+      "en": "Caltex",
+      "zh_Hant": "加德士",
+      "zh_Hans": "加德士"
+    },
+    "stand_id": 101,
+    "image_url": "images/petrol_stations/NT17.png"
+  },
+  {
+    "location": {
+      "latitude": 22.2637561909734,
+      "longitude": 114.001629352569
+    },
+    "name": {
+      "en": "Mui Wo Station",
+      "zh_Hant": "梅窩站",
+      "zh_Hans": "梅窝站"
+    },
+    "address": {
+      "en": "Mui Wo Ferry Pier Road, Mui Wo, Lantau Island, New Territories",
+      "zh_Hant": "新界大嶼山梅窩梅窩碼頭路",
+      "zh_Hans": "新界大屿山梅窝梅窝码头路"
+    },
+    "type": {
+      "en": "Caltex",
+      "zh_Hant": "加德士",
+      "zh_Hans": "加德士"
+    },
+    "stand_id": 102,
+    "image_url": "images/petrol_stations/NT18.png"
+  },
+  {
+    "location": {
+      "latitude": 22.443848110686,
+      "longitude": 114.018290564417
+    },
+    "name": {
+      "en": "Shui Pin Tsuen Station",
+      "zh_Hant": "水邊村站",
+      "zh_Hans": "水边村站"
+    },
+    "address": {
+      "en": "Shui Pin Tsuen, Castle Peak Road, Yuen Long, New Territories",
+      "zh_Hant": "新界元朗青山公路元朗段 (近水邊村)",
+      "zh_Hans": "新界元朗青山公路元朗段 (近水边村)"
+    },
+    "type": {
+      "en": "Caltex",
+      "zh_Hant": "加德士",
+      "zh_Hans": "加德士"
+    },
+    "stand_id": 103,
+    "image_url": "images/petrol_stations/NT19.png"
+  },
+  {
+    "location": {
+      "latitude": 22.4866514708605,
+      "longitude": 114.149782508611
+    },
+    "name": {
+      "en": "Fanling Kau Lung Hang Station",
+      "zh_Hant": "粉嶺九龍坑站",
+      "zh_Hans": "粉岭九龙坑站"
+    },
+    "address": {
+      "en": "Kau Lung Hang, Tai Po Road, Fanling, New Territories",
+      "zh_Hant": "新界粉嶺大埔公路 (九龍坑段)",
+      "zh_Hans": "新界粉岭大埔公路 (九龙坑段)"
+    },
+    "type": {
+      "en": "Caltex",
+      "zh_Hant": "加德士",
+      "zh_Hans": "加德士"
+    },
+    "stand_id": 104,
+    "image_url": "images/petrol_stations/NT20.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3778062031149,
+      "longitude": 114.184678047895
+    },
+    "name": {
+      "en": "Tai Wai Station",
+      "zh_Hant": "大圍站",
+      "zh_Hans": "大围站"
+    },
+    "address": {
+      "en": "j/o Man Lam Road & Man Lai Road, Sha Tin, New Territories",
+      "zh_Hant": "新界沙田大圍文林路與文禮路交界",
+      "zh_Hans": "新界沙田大围文林路与文礼路交界"
+    },
+    "type": {
+      "en": "Caltex",
+      "zh_Hant": "加德士",
+      "zh_Hans": "加德士"
+    },
+    "stand_id": 105,
+    "image_url": "images/petrol_stations/NT21.png"
+  },
+  {
+    "location": {
+      "latitude": 22.4403129506571,
+      "longitude": 114.008336216211
+    },
+    "name": {
+      "en": "Tong Yan San Tsuen Station",
+      "zh_Hant": "唐人新村站",
+      "zh_Hans": "唐人新村站"
+    },
+    "address": {
+      "en": "j/o Castle Peak Road & San Hi Tsuen Street, Yuen Long, New Territories",
+      "zh_Hant": "新界元朗青山公路新起村街口",
+      "zh_Hans": "新界元朗青山公路新起村街口"
+    },
+    "type": {
+      "en": "Caltex",
+      "zh_Hant": "加德士",
+      "zh_Hans": "加德士"
+    },
+    "stand_id": 106,
+    "image_url": "images/petrol_stations/NT22.png"
+  },
+  {
+    "location": {
+      "latitude": 22.4409593760254,
+      "longitude": 113.997777700424
+    },
+    "name": {
+      "en": "Tin Shui Wai Station",
+      "zh_Hant": "天水圍站",
+      "zh_Hans": "天水围站"
+    },
+    "address": {
+      "en": "Shek Po Tsuen, Hung Tin Road, Castle Peak Road, Yuen Long, New Territories",
+      "zh_Hant": "新界元朗青山公路洪天路 (石埔村)",
+      "zh_Hans": "新界元朗青山公路洪天路 (石埔村)"
+    },
+    "type": {
+      "en": "Caltex",
+      "zh_Hant": "加德士",
+      "zh_Hans": "加德士"
+    },
+    "stand_id": 107,
+    "image_url": "images/petrol_stations/NT23.png"
+  },
+  {
+    "location": {
+      "latitude": 22.4965598874781,
+      "longitude": 114.139485508203
+    },
+    "name": {
+      "en": "Jockey Club Road Station",
+      "zh_Hant": "馬會道站",
+      "zh_Hans": "马会道站"
+    },
+    "address": {
+      "en": "(Near Fanling Magistracy) Jockey Club Road, Fanling, New Territories",
+      "zh_Hant": "新界粉嶺馬會道 (近粉嶺裁判法院)",
+      "zh_Hans": "新界粉岭马会道 (近粉岭裁判法院)"
+    },
+    "type": {
+      "en": "Caltex",
+      "zh_Hant": "加德士",
+      "zh_Hans": "加德士"
+    },
+    "stand_id": 108,
+    "image_url": "images/petrol_stations/NT24.png"
+  },
+  {
+    "location": {
+      "latitude": 22.4668851807634,
+      "longitude": 114.053791612386
+    },
+    "name": {
+      "en": "Fairview Park Station",
+      "zh_Hant": "錦繡花園站",
+      "zh_Hans": "锦绣花园站"
+    },
+    "address": {
+      "en": "(Near Tai Sang Wai) Castle Peak Road, Yuen Long, New Territories",
+      "zh_Hant": "新界元朗青山公路 (近大生圍)",
+      "zh_Hans": "新界元朗青山公路 (近大生围)"
+    },
+    "type": {
+      "en": "Caltex",
+      "zh_Hant": "加德士",
+      "zh_Hans": "加德士"
+    },
+    "stand_id": 109,
+    "image_url": "images/petrol_stations/NT25.png"
+  },
+  {
+    "location": {
+      "latitude": 22.4729056442525,
+      "longitude": 114.05633
+    },
+    "name": {
+      "en": "Long Ha Station",
+      "zh_Hant": "朗廈站",
+      "zh_Hans": "朗厦站"
+    },
+    "address": {
+      "en": "(Near Fairview Park) Castle Peak Road, Yuen Long, New Territories",
+      "zh_Hant": "新界元朗青山公路 (近錦繡花園)",
+      "zh_Hans": "新界元朗青山公路 (近锦绣花园)"
+    },
+    "type": {
+      "en": "Caltex",
+      "zh_Hant": "加德士",
+      "zh_Hans": "加德士"
+    },
+    "stand_id": 110,
+    "image_url": "images/petrol_stations/NT26.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3704062657336,
+      "longitude": 114.173248
+    },
+    "name": {
+      "en": "Shatin Heights Station",
+      "zh_Hant": "沙田嶺站",
+      "zh_Hans": "沙田岭站"
+    },
+    "address": {
+      "en": "(Near Shatin Inn) Tai Po Road, Sha Tin, New Territories",
+      "zh_Hant": "新界沙田大埔道 (近大圍沙田茵)",
+      "zh_Hans": "新界沙田大埔道 (近大围沙田茵)"
+    },
+    "type": {
+      "en": "Caltex",
+      "zh_Hant": "加德士",
+      "zh_Hans": "加德士"
+    },
+    "stand_id": 111,
+    "image_url": "images/petrol_stations/NT27.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3769790468066,
+      "longitude": 113.984388113021
+    },
+    "name": {
+      "en": "Cafeteria Beach Station",
+      "zh_Hant": "咖啡灣站",
+      "zh_Hans": "咖啡湾站"
+    },
+    "address": {
+      "en": "Cafeteria Beach, Castle Peak Road, Tuen Mun, New Territories",
+      "zh_Hant": "新界屯門青山公路咖啡灣",
+      "zh_Hans": "新界屯门青山公路咖啡湾"
+    },
+    "type": {
+      "en": "Caltex",
+      "zh_Hant": "加德士",
+      "zh_Hans": "加德士"
+    },
+    "stand_id": 112,
+    "image_url": "images/petrol_stations/NT28.png"
+  },
+  {
+    "location": {
+      "latitude": 22.4388199010697,
+      "longitude": 114.029250741004
+    },
+    "name": {
+      "en": "Tai Tong Road Station",
+      "zh_Hant": "大棠路站",
+      "zh_Hans": "大棠路站"
+    },
+    "address": {
+      "en": "Tai Tong Road, Yuen Long, New Territories",
+      "zh_Hant": "新界元朗大棠路",
+      "zh_Hans": "新界元朗大棠路"
+    },
+    "type": {
+      "en": "Caltex",
+      "zh_Hant": "加德士",
+      "zh_Hans": "加德士"
+    },
+    "stand_id": 113,
+    "image_url": "images/petrol_stations/NT29.png"
+  },
+  {
+    "location": {
+      "latitude": 22.440480909983,
+      "longitude": 114.07443255186
+    },
+    "name": {
+      "en": "Kam Tin Station",
+      "zh_Hant": "錦田站",
+      "zh_Hans": "锦田站"
+    },
+    "address": {
+      "en": "Kam Tin Road, Shek Kong, Yuen Long, New Territories",
+      "zh_Hant": "新界元朗石崗錦田路",
+      "zh_Hans": "新界元朗石岗锦田路"
+    },
+    "type": {
+      "en": "Caltex",
+      "zh_Hant": "加德士",
+      "zh_Hans": "加德士"
+    },
+    "stand_id": 114,
+    "image_url": "images/petrol_stations/NT30.png"
+  },
+  {
+    "location": {
+      "latitude": 22.4224132711919,
+      "longitude": 113.984558433294
+    },
+    "name": {
+      "en": "Lam Tei Station",
+      "zh_Hant": "藍地站",
+      "zh_Hans": "蓝地站"
+    },
+    "address": {
+      "en": "Tsing Chuen Wai, Lam Tei, Tuen Mun, New Territories",
+      "zh_Hant": "新界屯門藍地青磚圍",
+      "zh_Hans": "新界屯门蓝地青砖围"
+    },
+    "type": {
+      "en": "Caltex",
+      "zh_Hant": "加德士",
+      "zh_Hans": "加德士"
+    },
+    "stand_id": 115,
+    "image_url": "images/petrol_stations/NT31.png"
+  },
+  {
+    "location": {
+      "latitude": 22.431006074831,
+      "longitude": 113.994746133685
+    },
+    "name": {
+      "en": "Hung Shui Kiu Station",
+      "zh_Hant": "洪水橋站",
+      "zh_Hans": "洪水桥站"
+    },
+    "address": {
+      "en": "Castle Peak Road, Hung Shui Kiu, Yuen Long, New Territories",
+      "zh_Hant": "新界元朗青山公路 (洪水橋段)",
+      "zh_Hans": "新界元朗青山公路 (洪水桥段)"
+    },
+    "type": {
+      "en": "Caltex",
+      "zh_Hant": "加德士",
+      "zh_Hans": "加德士"
+    },
+    "stand_id": 116,
+    "image_url": "images/petrol_stations/NT32.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3304804985764,
+      "longitude": 114.262694120407
+    },
+    "name": {
+      "en": "Clear Water Bay Station",
+      "zh_Hant": "清水灣站",
+      "zh_Hans": "清水湾站"
+    },
+    "address": {
+      "en": "(Near Former TVB City Entrance) Hang Hau Village, Clearwater Bay Road, New Territories",
+      "zh_Hant": "新界清水灣道坑口村 (舊無線電視城入口)",
+      "zh_Hans": "新界清水湾道坑口村 (旧无线电视城入口)"
+    },
+    "type": {
+      "en": "Caltex",
+      "zh_Hant": "加德士",
+      "zh_Hans": "加德士"
+    },
+    "stand_id": 117,
+    "image_url": "images/petrol_stations/NT33.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3703901434362,
+      "longitude": 114.12553332746
+    },
+    "name": {
+      "en": "Tsuen Wan Station",
+      "zh_Hant": "荃灣站",
+      "zh_Hans": "荃湾站"
+    },
+    "address": {
+      "en": "(Near Tai Wo Hau Estate) Castle Peak Road, Tsuen Wan, New Territories",
+      "zh_Hant": "新界荃灣青山道 (近大窩口邨)",
+      "zh_Hans": "新界荃湾青山道 (近大窝口邨)"
+    },
+    "type": {
+      "en": "Caltex",
+      "zh_Hant": "加德士",
+      "zh_Hans": "加德士"
+    },
+    "stand_id": 118,
+    "image_url": "images/petrol_stations/NT34.png"
+  },
+  {
+    "location": {
+      "latitude": 22.4509819925282,
+      "longitude": 114.16389092803
+    },
+    "name": {
+      "en": "Tai Po Market Station",
+      "zh_Hant": "大埔墟站",
+      "zh_Hans": "大埔墟站"
+    },
+    "address": {
+      "en": "Kwong Fuk Road, Tai Po Market, New Territories",
+      "zh_Hant": "新界大埔墟廣福道",
+      "zh_Hans": "新界大埔墟广福道"
+    },
+    "type": {
+      "en": "Caltex",
+      "zh_Hant": "加德士",
+      "zh_Hans": "加德士"
+    },
+    "stand_id": 119,
+    "image_url": "images/petrol_stations/NT35.png"
+  },
+  {
+    "location": {
+      "latitude": 22.4405373095634,
+      "longitude": 114.0113530308
+    },
+    "name": {
+      "en": "Ping Shan Station",
+      "zh_Hant": "屏山油氣站",
+      "zh_Hans": "屏山油气站"
+    },
+    "address": {
+      "en": "9 Tong Yan San Tsuen Road, Ping Shan, Yuen Long, New Territories",
+      "zh_Hant": "新界元朗屏山唐人新村路9號",
+      "zh_Hans": "新界元朗屏山唐人新村路9号"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 120,
+    "image_url": "images/petrol_stations/NT36.png"
+  },
+  {
+    "location": {
+      "latitude": 22.360524,
+      "longitude": 114.13243
+    },
+    "name": {
+      "en": "Kwai Chung LPG Station",
+      "zh_Hant": "葵涌石油氣站",
+      "zh_Hans": "葵涌石油气站"
+    },
+    "address": {
+      "en": "2 Kwai On Street, Kwai Chung, New Territories",
+      "zh_Hant": "新界葵涌葵安街2號",
+      "zh_Hans": "新界葵涌葵安街2号"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 121,
+    "image_url": "images/petrol_stations/NT37.png"
+  },
+  {
+    "location": {
+      "latitude": 22.445833,
+      "longitude": 114.173897
+    },
+    "name": {
+      "en": "Tai Po LPG Station",
+      "zh_Hant": "大埔石油氣站",
+      "zh_Hans": "大埔石油气站"
+    },
+    "address": {
+      "en": "1 Kwong Chun Street, Tai Po, New Territories",
+      "zh_Hant": "新界大埔廣進街1號",
+      "zh_Hans": "新界大埔广进街1号"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 122,
+    "image_url": "images/petrol_stations/NT38.png"
+  },
+  {
+    "location": {
+      "latitude": 22.2945444828675,
+      "longitude": 113.953230232
+    },
+    "name": {
+      "en": "Tung Chung 1 Station",
+      "zh_Hant": "東涌1油氣站",
+      "zh_Hans": "东涌1油气站"
+    },
+    "address": {
+      "en": "25 Hei Tung Street, Tung Chung New Town, Lantau Island, New Territories",
+      "zh_Hant": "新界大嶼山東涌新市鎮喜東街25號",
+      "zh_Hans": "新界大屿山东涌新市镇喜东街25号"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 123,
+    "image_url": "images/petrol_stations/NT39.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3709848069395,
+      "longitude": 114.12758924067
+    },
+    "name": {
+      "en": "Tsuen Wan Station",
+      "zh_Hant": "荃灣油氣站",
+      "zh_Hans": "荃湾油气站"
+    },
+    "address": {
+      "en": "690 Castle Peak Road, Kwai Chung, New Territories",
+      "zh_Hant": "新界葵涌青山公路690號",
+      "zh_Hans": "新界葵涌青山公路690号"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 124,
+    "image_url": "images/petrol_stations/NT40.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3941176632836,
+      "longitude": 113.977092504501
+    },
+    "name": {
+      "en": "Tuen Yan Street Station",
+      "zh_Hant": "屯仁街油站",
+      "zh_Hans": "屯仁街油站"
+    },
+    "address": {
+      "en": "6 Tuen Yan Street, Tuen Mun, New Territories",
+      "zh_Hant": "新界屯門屯仁街6號",
+      "zh_Hans": "新界屯门屯仁街6号"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 125,
+    "image_url": "images/petrol_stations/NT41.png"
+  },
+  {
+    "location": {
+      "latitude": 22.4540192501679,
+      "longitude": 114.163361191749
+    },
+    "name": {
+      "en": "Ting Tai Road Station",
+      "zh_Hant": "汀太路油站",
+      "zh_Hans": "汀太路油站"
+    },
+    "address": {
+      "en": "10 Ting Tai Road, Tai Po, New Territories",
+      "zh_Hant": "新界大埔汀太路10號",
+      "zh_Hans": "新界大埔汀太路10号"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 126,
+    "image_url": "images/petrol_stations/NT42.png"
+  },
+  {
+    "location": {
+      "latitude": 22.4316884928318,
+      "longitude": 114.103800728917
+    },
+    "name": {
+      "en": "Lam Kam Station",
+      "zh_Hant": "林錦油站",
+      "zh_Hans": "林锦油站"
+    },
+    "address": {
+      "en": "5 Lam Kam Road, Shek Kong, Yuen Long, New Territories",
+      "zh_Hant": "新界元朗石崗林錦公路5號",
+      "zh_Hans": "新界元朗石岗林锦公路5号"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 127,
+    "image_url": "images/petrol_stations/NT43.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3300450711557,
+      "longitude": 114.105956554412
+    },
+    "name": {
+      "en": "Tsing Yi Station",
+      "zh_Hant": "青衣油氣站",
+      "zh_Hans": "青衣油气站"
+    },
+    "address": {
+      "en": "55 Tsing Yi Road, Tsing Yi Island, New Territories",
+      "zh_Hant": "新界青衣島青衣路55號 (近衡和化學廢料處理廠)",
+      "zh_Hans": "新界青衣岛青衣路55号 (近衡和化学废料处理厂)"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 128,
+    "image_url": "images/petrol_stations/NT44.png"
+  },
+  {
+    "location": {
+      "latitude": 22.4322822743388,
+      "longitude": 114.193884730339
+    },
+    "name": {
+      "en": "Tai Po Kau Station",
+      "zh_Hant": "大埔滘油氣站",
+      "zh_Hans": "大埔滘油气站"
+    },
+    "address": {
+      "en": "151 Tai Po Road, Tai Po Kau, New Territories",
+      "zh_Hant": "新界大埔滘大埔道151號 (鹿茵山莊附近)",
+      "zh_Hans": "新界大埔滘大埔道151号 (鹿茵山庄附近)"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 129,
+    "image_url": "images/petrol_stations/NT45.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3819710526395,
+      "longitude": 114.207295104861
+    },
+    "name": {
+      "en": "Siu Lek Yuen Station",
+      "zh_Hant": "小瀝源油氣站",
+      "zh_Hans": "小沥源油气站"
+    },
+    "address": {
+      "en": "12 Yuen On Street, Shatin, New Territories",
+      "zh_Hant": "新界沙田源安街12號 (近小瀝源警署)",
+      "zh_Hans": "新界沙田源安街12号 (近小沥源警署)"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 130,
+    "image_url": "images/petrol_stations/NT46.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3740374556096,
+      "longitude": 113.996468782424
+    },
+    "name": {
+      "en": "So Kwun Wat Station",
+      "zh_Hant": "掃管笏油站",
+      "zh_Hans": "扫管笏油站"
+    },
+    "address": {
+      "en": "22 So Kwun Wat Road, So Kwun Tan, New Territories",
+      "zh_Hant": "新界掃管灘掃管笏路22號",
+      "zh_Hans": "新界扫管滩扫管笏路22号"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 131,
+    "image_url": "images/petrol_stations/NT47.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3706381785743,
+      "longitude": 113.994671702384
+    },
+    "name": {
+      "en": "Gold Coast Station",
+      "zh_Hant": "黃金海岸油站",
+      "zh_Hans": "黄金海岸油站"
+    },
+    "address": {
+      "en": "38 Castle Peak Road (So Kwun Wat), Tuen Mun, New Territories",
+      "zh_Hant": "新界屯門青山公路 (掃管笏段) 38號 (近黃金海岸)",
+      "zh_Hans": "新界屯门青山公路 (扫管笏段) 38号 (近黄金海岸)"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 132,
+    "image_url": "images/petrol_stations/NT48.png"
+  },
+  {
+    "location": {
+      "latitude": 22.4853807284555,
+      "longitude": 114.143872261047
+    },
+    "name": {
+      "en": "Fanling South Station",
+      "zh_Hant": "粉嶺南油氣站",
+      "zh_Hans": "粉岭南油气站"
+    },
+    "address": {
+      "en": "30 Yat Ming Road, Fanling, New Territories",
+      "zh_Hant": "新界粉嶺一鳴路30號 (近祥華村，花都廣場)",
+      "zh_Hans": "新界粉岭一鸣路30号 (近祥华村，花都广场)"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 133,
+    "image_url": "images/petrol_stations/NT49.png"
+  },
+  {
+    "location": {
+      "latitude": 22.495406946819,
+      "longitude": 114.137013182044
+    },
+    "name": {
+      "en": "Fanling Wai Station",
+      "zh_Hant": "粉嶺圍油站",
+      "zh_Hans": "粉岭围油站"
+    },
+    "address": {
+      "en": "70 San Wan Road, Fanling Nam Wai, Fanling, New Territories",
+      "zh_Hant": "新界粉嶺新運路70號 (近粉嶺泳池)",
+      "zh_Hans": "新界粉岭新运路70号 (近粉岭泳池)"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 134,
+    "image_url": "images/petrol_stations/NT50.png"
+  },
+  {
+    "location": {
+      "latitude": 22.5071843316278,
+      "longitude": 114.127263352274
+    },
+    "name": {
+      "en": "Sheung Shui Station",
+      "zh_Hant": "上水油站",
+      "zh_Hans": "上水油站"
+    },
+    "address": {
+      "en": "5 San Fung Avenue, Sheung Shui, New Territories",
+      "zh_Hant": "新界上水新豐路5號",
+      "zh_Hans": "新界上水新丰路5号"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 135,
+    "image_url": "images/petrol_stations/NT51.png"
+  },
+  {
+    "location": {
+      "latitude": 22.4438338561894,
+      "longitude": 114.049592614173
+    },
+    "name": {
+      "en": "Au Tau Station",
+      "zh_Hant": "凹頭油氣站",
+      "zh_Hans": "凹头油气站"
+    },
+    "address": {
+      "en": "17 Kam Tin Road, Yuen Long, New Territories",
+      "zh_Hant": "新界元朗錦田路17號",
+      "zh_Hans": "新界元朗锦田路17号"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 136,
+    "image_url": "images/petrol_stations/NT52.png"
+  },
+  {
+    "location": {
+      "latitude": 22.4399937653999,
+      "longitude": 114.074154943227
+    },
+    "name": {
+      "en": "Shek Kong Station",
+      "zh_Hant": "石崗油氣站",
+      "zh_Hans": "石岗油气站"
+    },
+    "address": {
+      "en": "190 Kam Tin Road, Shek Kong, Yuen Long, New Territories",
+      "zh_Hant": "新界元朗石崗錦田路190號 (近錦田診所)",
+      "zh_Hans": "新界元朗石岗锦田路190号 (近锦田诊所)"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 137,
+    "image_url": "images/petrol_stations/NT53.png"
+  },
+  {
+    "location": {
+      "latitude": 22.4465892851364,
+      "longitude": 113.994210362434
+    },
+    "name": {
+      "en": "Tin Shui Wai Station",
+      "zh_Hant": "天水圍油氣站",
+      "zh_Hans": "天水围油气站"
+    },
+    "address": {
+      "en": "123 Ping Ha Road, Tin Shui Wai, Yuen Long, New Territories",
+      "zh_Hant": "新界元朗天水圍屏廈路123號 (近田廈路交界)",
+      "zh_Hans": "新界元朗天水围屏厦路123号 (近田厦路交界)"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 138,
+    "image_url": "images/petrol_stations/NT54.png"
+  },
+  {
+    "location": {
+      "latitude": 22.4211543370952,
+      "longitude": 113.98503050208
+    },
+    "name": {
+      "en": "Lam Tei Station",
+      "zh_Hant": "藍地油氣站",
+      "zh_Hans": "蓝地油气站"
+    },
+    "address": {
+      "en": "2 Fuk Hang Tsuen Road, Lam Tei, Tuen Mun, New Territories",
+      "zh_Hant": "新界屯門藍地福亨村路2號 (近妙法寺)",
+      "zh_Hans": "新界屯门蓝地福亨村路2号 (近妙法寺)"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 139,
+    "image_url": "images/petrol_stations/NT55.png"
+  },
+  {
+    "location": {
+      "latitude": 22.4370702421903,
+      "longitude": 114.002885967493
+    },
+    "name": {
+      "en": "Fui Sha Wai Station",
+      "zh_Hant": "灰沙圍油氣站",
+      "zh_Hans": "灰沙围油气站"
+    },
+    "address": {
+      "en": "10 Castle Peak Road, Ping Shan, New Territories",
+      "zh_Hant": "新界屏山青山公路10號",
+      "zh_Hans": "新界屏山青山公路10号"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 140,
+    "image_url": "images/petrol_stations/NT56.png"
+  },
+  {
+    "location": {
+      "latitude": 22.4717822490923,
+      "longitude": 114.054234176874
+    },
+    "name": {
+      "en": "Fairview Park Station",
+      "zh_Hant": "錦繡花園油站",
+      "zh_Hans": "锦绣花园油站"
+    },
+    "address": {
+      "en": "2A Fairview Park Boulevard, New Territories",
+      "zh_Hant": "新界錦繡花園大道2A號",
+      "zh_Hans": "新界锦绣花园大道2A号"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 141,
+    "image_url": "images/petrol_stations/NT57.png"
+  },
+  {
+    "location": {
+      "latitude": 22.4645360384715,
+      "longitude": 114.053329601883
+    },
+    "name": {
+      "en": "Pok Wai Station",
+      "zh_Hant": "壆圍油站",
+      "zh_Hans": "壆围油站"
+    },
+    "address": {
+      "en": "139 Pok Wai, Yuen Long, New Territories",
+      "zh_Hant": "新界元朗壆圍139號（近錦繡花園）",
+      "zh_Hans": "新界元朗壆围139号（近锦绣花园）"
+    },
+    "type": {
+      "en": "Sinopec",
+      "zh_Hant": "中石化",
+      "zh_Hans": "中石化"
+    },
+    "stand_id": 142,
+    "image_url": "images/petrol_stations/NT58.png"
+  },
+  {
+    "location": {
+      "latitude": 22.310861,
+      "longitude": 113.93888
+    },
+    "name": {
+      "en": "Airport (Passenger Terminal) Station",
+      "zh_Hant": "機場(客運大樓)站",
+      "zh_Hans": "机场(客运大楼)站"
+    },
+    "address": {
+      "en": "6 Cheong King Road, H.K. International Airport, Chek Lap Kok, Lantau Island. New Territories",
+      "zh_Hant": "新界大嶼山赤鱲角機場暢景路6號",
+      "zh_Hans": "新界大屿山赤鱲角机场畅景路6号"
+    },
+    "type": {
+      "en": "Shell",
+      "zh_Hant": "蚬殼",
+      "zh_Hans": "壳牌"
+    },
+    "stand_id": 143,
+    "image_url": "images/petrol_stations/NT59.png"
+  },
+  {
+    "location": {
+      "latitude": 22.4249881308878,
+      "longitude": 114.075276777148
+    },
+    "name": {
+      "en": "Kam Sheung Station",
+      "zh_Hant": "錦上站",
+      "zh_Hans": "锦上站"
+    },
+    "address": {
+      "en": "118 Kam Sheung Road, Pat Heung, New Territories",
+      "zh_Hant": "錦上路118號",
+      "zh_Hans": "锦上路118号"
+    },
+    "type": {
+      "en": "Shell",
+      "zh_Hant": "蚬殼",
+      "zh_Hans": "壳牌"
+    },
+    "stand_id": 144,
+    "image_url": "images/petrol_stations/NT60.png"
+  },
+  {
+    "location": {
+      "latitude": 22.4017296019722,
+      "longitude": 113.977027460932
+    },
+    "name": {
+      "en": "San Hui Station",
+      "zh_Hant": "新墟站",
+      "zh_Hans": "新墟站"
+    },
+    "address": {
+      "en": "3 San Tak Street, San Hui, Tuen Mun, New Territories",
+      "zh_Hant": "新界屯門新墟新德街3號",
+      "zh_Hans": "新界屯门新墟新德街3号"
+    },
+    "type": {
+      "en": "Shell",
+      "zh_Hant": "蚬殼",
+      "zh_Hans": "壳牌"
+    },
+    "stand_id": 145,
+    "image_url": "images/petrol_stations/NT61.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3607461946977,
+      "longitude": 114.1616358608
+    },
+    "name": {
+      "en": "Shatin Heights Station",
+      "zh_Hant": "沙田嶺站",
+      "zh_Hans": "沙田岭站"
+    },
+    "address": {
+      "en": "8500 Tai Po Road, Shatin Heights, Shatin, New Territories",
+      "zh_Hant": "新界沙田嶺大埔公路8500號",
+      "zh_Hans": "新界沙田岭大埔公路8500号"
+    },
+    "type": {
+      "en": "Shell",
+      "zh_Hant": "蚬殼",
+      "zh_Hans": "壳牌"
+    },
+    "stand_id": 146,
+    "image_url": "images/petrol_stations/NT62.png"
+  },
+  {
+    "location": {
+      "latitude": 22.4187864439141,
+      "longitude": 114.232581630349
+    },
+    "name": {
+      "en": "Ma On Shan Station",
+      "zh_Hant": "馬鞍山站",
+      "zh_Hans": "马鞍山站"
+    },
+    "address": {
+      "en": "21 On Shan Lane, Ma On Shan, New Territories",
+      "zh_Hant": "新界馬鞍山鞍山里21號",
+      "zh_Hans": "新界马鞍山鞍山里21号"
+    },
+    "type": {
+      "en": "Shell",
+      "zh_Hant": "蚬殼",
+      "zh_Hans": "壳牌"
+    },
+    "stand_id": 147,
+    "image_url": "images/petrol_stations/NT63.png"
+  },
+  {
+    "location": {
+      "latitude": 22.321831241181,
+      "longitude": 114.254866093397
+    },
+    "name": {
+      "en": "Tseung Kwan O Station",
+      "zh_Hant": "將軍澳站",
+      "zh_Hans": "将军澳站"
+    },
+    "address": {
+      "en": "100 Po Hong Road, Tseung Kwan O, New Territories",
+      "zh_Hant": "新界將軍澳寶康路100號",
+      "zh_Hans": "新界将军澳宝康路100号"
+    },
+    "type": {
+      "en": "Shell",
+      "zh_Hant": "蚬殼",
+      "zh_Hans": "壳牌"
+    },
+    "stand_id": 148,
+    "image_url": "images/petrol_stations/NT64.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3548461401292,
+      "longitude": 114.099166542291
+    },
+    "name": {
+      "en": "Tsing Yi Station",
+      "zh_Hant": "青衣站",
+      "zh_Hans": "青衣站"
+    },
+    "address": {
+      "en": "173 Tsing Yi Road West, Tsing Yi, New Territories",
+      "zh_Hant": "新界青衣青衣西路173號",
+      "zh_Hans": "新界青衣青衣西路173号"
+    },
+    "type": {
+      "en": "Shell",
+      "zh_Hant": "蚬殼",
+      "zh_Hans": "壳牌"
+    },
+    "stand_id": 149,
+    "image_url": "images/petrol_stations/NT65.png"
+  },
+  {
+    "location": {
+      "latitude": 22.4376156571728,
+      "longitude": 114.003017395734
+    },
+    "name": {
+      "en": "Ping Shan Station",
+      "zh_Hant": "屏山站",
+      "zh_Hans": "屏山站"
+    },
+    "address": {
+      "en": "11 Castle Peak Road, Ping Shan, Yuen Long, New Territories",
+      "zh_Hant": "新界元朗屏山青山公路11號",
+      "zh_Hans": "新界元朗屏山青山公路11号"
+    },
+    "type": {
+      "en": "Shell",
+      "zh_Hant": "蚬殼",
+      "zh_Hans": "壳牌"
+    },
+    "stand_id": 150,
+    "image_url": "images/petrol_stations/NT66.png"
+  },
+  {
+    "location": {
+      "latitude": 22.43957231578,
+      "longitude": 114.010809212923
+    },
+    "name": {
+      "en": "Tong Yan San Tsuen Station",
+      "zh_Hant": "唐人新村站",
+      "zh_Hans": "唐人新村站"
+    },
+    "address": {
+      "en": "20 Tong Yan San Tsuen Road, Yuen Long, New Territories",
+      "zh_Hant": "新界元朗唐人新村路20號",
+      "zh_Hans": "新界元朗唐人新村路20号"
+    },
+    "type": {
+      "en": "Shell",
+      "zh_Hant": "蚬殼",
+      "zh_Hans": "壳牌"
+    },
+    "stand_id": 151,
+    "image_url": "images/petrol_stations/NT67.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3981673310257,
+      "longitude": 113.972220271825
+    },
+    "name": {
+      "en": "Tuen Mun Station",
+      "zh_Hant": "屯門站",
+      "zh_Hans": "屯门站"
+    },
+    "address": {
+      "en": "5 Tsun Wen Road, Tuen Mun, New Territories",
+      "zh_Hant": "新界屯門震寰路5號",
+      "zh_Hans": "新界屯门震寰路5号"
+    },
+    "type": {
+      "en": "Shell",
+      "zh_Hant": "蚬殼",
+      "zh_Hans": "壳牌"
+    },
+    "stand_id": 152,
+    "image_url": "images/petrol_stations/NT68.png"
+  },
+  {
+    "location": {
+      "latitude": 22.4310606188091,
+      "longitude": 113.995261117815
+    },
+    "name": {
+      "en": "Hung Shui Kiu Station",
+      "zh_Hant": "洪水橋站",
+      "zh_Hans": "洪水桥站"
+    },
+    "address": {
+      "en": "202, Castle Peak Road, Hung Shui Kiu, Yuen Long, New Territories",
+      "zh_Hant": "新界元朗洪水橋青山公路202號",
+      "zh_Hans": "新界元朗洪水桥青山公路202号"
+    },
+    "type": {
+      "en": "Shell",
+      "zh_Hant": "蚬殼",
+      "zh_Hans": "壳牌"
+    },
+    "stand_id": 153,
+    "image_url": "images/petrol_stations/NT69.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3852237276762,
+      "longitude": 114.205451756715
+    },
+    "name": {
+      "en": "Shatin City One Station",
+      "zh_Hant": "沙田第一城站",
+      "zh_Hans": "沙田第一城站"
+    },
+    "address": {
+      "en": "5-7 Lok Shing Street, Shatin Cityone, New Territories",
+      "zh_Hant": "新界沙田第一城樂城街5-7號",
+      "zh_Hans": "新界沙田第一城乐城街5-7号"
+    },
+    "type": {
+      "en": "Shell",
+      "zh_Hant": "蚬殼",
+      "zh_Hans": "壳牌"
+    },
+    "stand_id": 154,
+    "image_url": "images/petrol_stations/NT70.png"
+  },
+  {
+    "location": {
+      "latitude": 22.5006016089403,
+      "longitude": 114.146451205015
+    },
+    "name": {
+      "en": "Fanling (North) Station",
+      "zh_Hant": "粉嶺(北)站",
+      "zh_Hans": "粉岭(北)站"
+    },
+    "address": {
+      "en": "46 Sha Tau Kok Rd, Lung Yeuk Tau, Fanling",
+      "zh_Hant": "粉嶺沙頭角公路46 號龍躍頭段",
+      "zh_Hans": "粉岭沙头角公路46 号龙跃头段"
+    },
+    "type": {
+      "en": "Shell",
+      "zh_Hant": "蚬殼",
+      "zh_Hans": "壳牌"
+    },
+    "stand_id": 155,
+    "image_url": "images/petrol_stations/NT71.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3709817065107,
+      "longitude": 114.127995595335
+    },
+    "name": {
+      "en": "Kwai Chung Station",
+      "zh_Hant": "葵涌站",
+      "zh_Hans": "葵涌站"
+    },
+    "address": {
+      "en": "(Towards Kowloon) 682-688 Castle Peak Road, Tai Wo Hau, New Territories",
+      "zh_Hant": "新界大窩口青山公路682-688號 (向九龍方向)",
+      "zh_Hans": "新界大窝口青山公路682-688号 (向九龙方向)"
+    },
+    "type": {
+      "en": "Shell",
+      "zh_Hant": "蚬殼",
+      "zh_Hans": "壳牌"
+    },
+    "stand_id": 156,
+    "image_url": "images/petrol_stations/NT72.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3725381130743,
+      "longitude": 114.108922407031
+    },
+    "name": {
+      "en": "Tsuen Wan (West) Station",
+      "zh_Hant": "荃灣(西)站",
+      "zh_Hans": "荃湾(西)站"
+    },
+    "address": {
+      "en": "84-92 Chai Wan Kok Street, Tsuen Wan, New Territories",
+      "zh_Hant": "新界荃灣柴灣角街84-92號",
+      "zh_Hans": "新界荃湾柴湾角街84-92号"
+    },
+    "type": {
+      "en": "Shell",
+      "zh_Hant": "蚬殼",
+      "zh_Hans": "壳牌"
+    },
+    "stand_id": 157,
+    "image_url": "images/petrol_stations/NT73.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3704595933194,
+      "longitude": 114.126142188906
+    },
+    "name": {
+      "en": "Tsuen Wan (New) Station",
+      "zh_Hant": "荃灣(新)站",
+      "zh_Hans": "荃湾(新)站"
+    },
+    "address": {
+      "en": "(Towards Tuen Mun) 731-737 Castle Peak Road, Tai Wo Hau, New Territories",
+      "zh_Hant": "新界大窩口青山公路731-737號 (西行線)",
+      "zh_Hans": "新界大窝口青山公路731-737号 (西行线)"
+    },
+    "type": {
+      "en": "Shell",
+      "zh_Hant": "蚬殼",
+      "zh_Hans": "壳牌"
+    },
+    "stand_id": 158,
+    "image_url": "images/petrol_stations/NT74.png"
+  },
+  {
+    "location": {
+      "latitude": 22.461695450257,
+      "longitude": 114.151998013257
+    },
+    "name": {
+      "en": "Hong Lok Yuen Station",
+      "zh_Hant": "康樂園站",
+      "zh_Hans": "康乐园站"
+    },
+    "address": {
+      "en": "16 Hong Lok Yuen Town Centre Crescent, Tai Po, New Territorie",
+      "zh_Hant": "新界大埔康樂園市中心徑16號",
+      "zh_Hans": "新界大埔康乐园市中心径16号"
+    },
+    "type": {
+      "en": "Shell",
+      "zh_Hant": "蚬殼",
+      "zh_Hans": "壳牌"
+    },
+    "stand_id": 159,
+    "image_url": "images/petrol_stations/NT75.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3398734907683,
+      "longitude": 114.247248619794
+    },
+    "name": {
+      "en": "Clearwater Bay Road Station",
+      "zh_Hant": "清水灣道站",
+      "zh_Hans": "清水湾道站"
+    },
+    "address": {
+      "en": "(Lot 1174) Clearwater Bay Road, Pik Uk, New Territories",
+      "zh_Hant": "新界清水灣道壁屋地段1174號",
+      "zh_Hans": "新界清水湾道壁屋地段1174号"
+    },
+    "type": {
+      "en": "Shell",
+      "zh_Hant": "蚬殼",
+      "zh_Hans": "壳牌"
+    },
+    "stand_id": 160,
+    "image_url": "images/petrol_stations/NT76.png"
+  },
+  {
+    "location": {
+      "latitude": 22.4439918950919,
+      "longitude": 114.043476507067
+    },
+    "name": {
+      "en": "Au Tau Station",
+      "zh_Hant": "坳頭站",
+      "zh_Hans": "坳头站"
+    },
+    "address": {
+      "en": "2K Castle Peak Road, Au Tau, Yuen Long",
+      "zh_Hant": "元朗坳頭青山公路2K號",
+      "zh_Hans": "元朗坳头青山公路2K号"
+    },
+    "type": {
+      "en": "Shell",
+      "zh_Hant": "蚬殼",
+      "zh_Hans": "壳牌"
+    },
+    "stand_id": 161,
+    "image_url": "images/petrol_stations/NT77.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3441678572468,
+      "longitude": 114.154155179858
+    },
+    "name": {
+      "en": "Kowloon Reservoir Station",
+      "zh_Hant": "九龍水塘站",
+      "zh_Hans": "九龙水塘站"
+    },
+    "address": {
+      "en": "488 Tai Po Road, New Territories",
+      "zh_Hant": "新界大埔公路488號",
+      "zh_Hans": "新界大埔公路488号"
+    },
+    "type": {
+      "en": "Shell",
+      "zh_Hant": "蚬殼",
+      "zh_Hans": "壳牌"
+    },
+    "stand_id": 162,
+    "image_url": "images/petrol_stations/NT78.png"
+  },
+  {
+    "location": {
+      "latitude": 22.327506,
+      "longitude": 114.254484
+    },
+    "name": {
+      "en": "Tseung Kwan O Station",
+      "zh_Hant": "將軍澳站",
+      "zh_Hans": "将军澳站"
+    },
+    "address": {
+      "en": "(Near fire service station) 21 Po Lam Road North, Tseung Kwan O, New Territories",
+      "zh_Hant": "新界將軍澳寶林北路21號 (近消防局)",
+      "zh_Hans": "新界将军澳宝林北路21号 (近消防局)"
+    },
+    "type": {
+      "en": "Esso",
+      "zh_Hant": "埃索",
+      "zh_Hans": "埃索"
+    },
+    "stand_id": 163,
+    "image_url": "images/petrol_stations/NT79.png"
+  },
+  {
+    "location": {
+      "latitude": 22.4143449856536,
+      "longitude": 114.227255433797
+    },
+    "name": {
+      "en": "Ma On Shan Station",
+      "zh_Hant": "馬鞍山站",
+      "zh_Hans": "马鞍山站"
+    },
+    "address": {
+      "en": "(Next to LPG filling station) 9 Hang Yiu Street, Ma On Shan, New Territories",
+      "zh_Hant": "新界馬鞍山恆耀街9號 (海典灣對出迴旋處轉入加氣站旁)",
+      "zh_Hans": "新界马鞍山恒耀街9号 (海典湾对出回旋处转入加气站旁)"
+    },
+    "type": {
+      "en": "Esso",
+      "zh_Hant": "埃索",
+      "zh_Hans": "埃索"
+    },
+    "stand_id": 164,
+    "image_url": "images/petrol_stations/NT80.png"
+  },
+  {
+    "location": {
+      "latitude": 22.379274486461,
+      "longitude": 114.266340583562
+    },
+    "name": {
+      "en": "Sai Kung Station",
+      "zh_Hant": "西貢站",
+      "zh_Hans": "西贡站"
+    },
+    "address": {
+      "en": "(Near Sai Kung Centre) Hiram's Highway, New Territories",
+      "zh_Hant": "新界西貢公路 (近西貢巿中心)",
+      "zh_Hans": "新界西贡公路 (近西贡巿中心)"
+    },
+    "type": {
+      "en": "Esso",
+      "zh_Hant": "埃索",
+      "zh_Hans": "埃索"
+    },
+    "stand_id": 165,
+    "image_url": "images/petrol_stations/NT81.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3925701779603,
+      "longitude": 114.208345860242
+    },
+    "name": {
+      "en": "Shek Mun Station",
+      "zh_Hant": "石門站",
+      "zh_Hans": "石门站"
+    },
+    "address": {
+      "en": "11 On Ping Street, Shek Mun, New Territories",
+      "zh_Hant": "新界石門安平街11號",
+      "zh_Hans": "新界石门安平街11号"
+    },
+    "type": {
+      "en": "Esso",
+      "zh_Hant": "埃索",
+      "zh_Hans": "埃索"
+    },
+    "stand_id": 166,
+    "image_url": "images/petrol_stations/NT82.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3801580532208,
+      "longitude": 114.199186116456
+    },
+    "name": {
+      "en": "Shatin Station",
+      "zh_Hant": "沙田站",
+      "zh_Hans": "沙田站"
+    },
+    "address": {
+      "en": "18 Kong Pui Street, Sha Tin, New Territories",
+      "zh_Hant": "新界沙田崗背街18號",
+      "zh_Hans": "新界沙田岗背街18号"
+    },
+    "type": {
+      "en": "Esso",
+      "zh_Hant": "埃索",
+      "zh_Hans": "埃索"
+    },
+    "stand_id": 167,
+    "image_url": "images/petrol_stations/NT83.png"
+  },
+  {
+    "location": {
+      "latitude": 22.4535742939144,
+      "longitude": 114.159797877073
+    },
+    "name": {
+      "en": "Tai Wo Road Station",
+      "zh_Hant": "太和路站",
+      "zh_Hans": "太和路站"
+    },
+    "address": {
+      "en": "(Near Serenity Park) 9 Tai Po Tai Wo Road, Tai Po, New Territories",
+      "zh_Hant": "新界大埔大埔太和路9號 (近太湖花園)",
+      "zh_Hans": "新界大埔大埔太和路9号 (近太湖花园)"
+    },
+    "type": {
+      "en": "Esso",
+      "zh_Hant": "埃索",
+      "zh_Hans": "埃索"
+    },
+    "stand_id": 168,
+    "image_url": "images/petrol_stations/NT84.png"
+  },
+  {
+    "location": {
+      "latitude": 22.4507743832208,
+      "longitude": 114.164120927453
+    },
+    "name": {
+      "en": "Tai Po Station",
+      "zh_Hant": "大埔站",
+      "zh_Hans": "大埔站"
+    },
+    "address": {
+      "en": "(Back of Government Offices) 1M, Kwong Fuk Road, Tai Po, New Territories",
+      "zh_Hant": "新界大埔墟廣福道1M號 (政府合署後面)",
+      "zh_Hans": "新界大埔墟广福道1M号 (政府合署后面)"
+    },
+    "type": {
+      "en": "Esso",
+      "zh_Hant": "埃索",
+      "zh_Hans": "埃索"
+    },
+    "stand_id": 169,
+    "image_url": "images/petrol_stations/NT85.png"
+  },
+  {
+    "location": {
+      "latitude": 22.443530173087,
+      "longitude": 114.031816273927
+    },
+    "name": {
+      "en": "Transport Plaza Station",
+      "zh_Hant": "交通廣場站",
+      "zh_Hans": "交通广场站"
+    },
+    "address": {
+      "en": "(Transport Plaza) 2-6 Fung Cheung Road, Yuen Long, New Territories",
+      "zh_Hant": "新界元朗鳳翔路2-6號 (交通廣場)",
+      "zh_Hans": "新界元朗凤翔路2-6号 (交通广场)"
+    },
+    "type": {
+      "en": "Esso",
+      "zh_Hant": "埃索",
+      "zh_Hans": "埃索"
+    },
+    "stand_id": 170,
+    "image_url": "images/petrol_stations/NT86.png"
+  },
+  {
+    "location": {
+      "latitude": 22.4356124861693,
+      "longitude": 113.992748558521
+    },
+    "name": {
+      "en": "Tin Ha Station",
+      "zh_Hant": "田廈站",
+      "zh_Hans": "田厦站"
+    },
+    "address": {
+      "en": "(Near Church of United Brethren in Christ) 70 Tin Ha Road, Yuen Long, New Territories",
+      "zh_Hant": "新界元朗田廈路70號 (近協基會錫安堂)",
+      "zh_Hans": "新界元朗田厦路70号 (近协基会锡安堂)"
+    },
+    "type": {
+      "en": "Esso",
+      "zh_Hant": "埃索",
+      "zh_Hans": "埃索"
+    },
+    "stand_id": 171,
+    "image_url": "images/petrol_stations/NT87.png"
+  },
+  {
+    "location": {
+      "latitude": 22.4979234550823,
+      "longitude": 114.077181145548
+    },
+    "name": {
+      "en": "San Tin Station",
+      "zh_Hant": "新田站",
+      "zh_Hans": "新田站"
+    },
+    "address": {
+      "en": "Lot 3465 in DD102, Castle Peak Road, San Tin, Yuen Long, New Territories",
+      "zh_Hant": "新界元朗青山公路新田段3465號 (近大夫第)",
+      "zh_Hans": "新界元朗青山公路新田段3465号 (近大夫第)"
+    },
+    "type": {
+      "en": "Esso",
+      "zh_Hant": "埃索",
+      "zh_Hans": "埃索"
+    },
+    "stand_id": 172,
+    "image_url": "images/petrol_stations/NT88.png"
+  },
+  {
+    "location": {
+      "latitude": 22.4738549153549,
+      "longitude": 114.049522206187
+    },
+    "name": {
+      "en": "Fairview Park Station",
+      "zh_Hant": "錦繡花園站",
+      "zh_Hans": "锦绣花园站"
+    },
+    "address": {
+      "en": "Fairview Park, Yuen Long, New Territories",
+      "zh_Hant": "新界元朗錦繡花園",
+      "zh_Hans": "新界元朗锦绣花园"
+    },
+    "type": {
+      "en": "Esso",
+      "zh_Hant": "埃索",
+      "zh_Hans": "埃索"
+    },
+    "stand_id": 173,
+    "image_url": "images/petrol_stations/NT89.png"
+  },
+  {
+    "location": {
+      "latitude": 22.4412500495381,
+      "longitude": 114.010882303118
+    },
+    "name": {
+      "en": "Ping Shan Station",
+      "zh_Hant": "屏山站",
+      "zh_Hans": "屏山站"
+    },
+    "address": {
+      "en": "(Near Wai Kwan Primary School) 4 Tong Yan San Tsuen Road, Ping Shan, Yuen Long, New Territories",
+      "zh_Hant": "新界元朗屏山唐人新村路4號 (近惠群小學)",
+      "zh_Hans": "新界元朗屏山唐人新村路4号 (近惠群小学)"
+    },
+    "type": {
+      "en": "Esso",
+      "zh_Hant": "埃索",
+      "zh_Hans": "埃索"
+    },
+    "stand_id": 174,
+    "image_url": "images/petrol_stations/NT90.png"
+  },
+  {
+    "location": {
+      "latitude": 22.4195519844768,
+      "longitude": 113.982637971639
+    },
+    "name": {
+      "en": "Lam Tei Station",
+      "zh_Hant": "藍地站",
+      "zh_Hans": "蓝地站"
+    },
+    "address": {
+      "en": "(Opposite to Miu Fat Monastery) 121 Castle Peak Road, Lam Tei, Tuen Mun, New Territories",
+      "zh_Hant": "新界屯門藍地青山公路121號 (妙法寺對面)",
+      "zh_Hans": "新界屯门蓝地青山公路121号 (妙法寺对面)"
+    },
+    "type": {
+      "en": "Esso",
+      "zh_Hant": "埃索",
+      "zh_Hans": "埃索"
+    },
+    "stand_id": 175,
+    "image_url": "images/petrol_stations/NT91.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3802367988983,
+      "longitude": 113.971154093742
+    },
+    "name": {
+      "en": "Hoi Wah Road Station",
+      "zh_Hant": "海華路站",
+      "zh_Hans": "海华路站"
+    },
+    "address": {
+      "en": "(Opposite to Tuen Mun Central Square) 38 Hoi Wah Road, Tuen Mun, New Territories",
+      "zh_Hant": "新界屯門海華路38號 (屯門中央廣場對面)",
+      "zh_Hans": "新界屯门海华路38号 (屯门中央广场对面)"
+    },
+    "type": {
+      "en": "Esso",
+      "zh_Hant": "埃索",
+      "zh_Hans": "埃索"
+    },
+    "stand_id": 176,
+    "image_url": "images/petrol_stations/NT92.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3704149469699,
+      "longitude": 114.125849157571
+    },
+    "name": {
+      "en": "Tsuen Wan Station",
+      "zh_Hant": "荃灣站",
+      "zh_Hans": "荃湾站"
+    },
+    "address": {
+      "en": "(Towards Tuen Mun) 739-745 Castle Peak Road, Tsuen Wan, New Territories",
+      "zh_Hant": "新界荃灣青山公路739-745號荃灣段 (入屯門方向)",
+      "zh_Hans": "新界荃湾青山公路739-745号荃湾段 (入屯门方向)"
+    },
+    "type": {
+      "en": "Esso",
+      "zh_Hant": "埃索",
+      "zh_Hans": "埃索"
+    },
+    "stand_id": 177,
+    "image_url": "images/petrol_stations/NT93.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3709550428203,
+      "longitude": 114.127251952886
+    },
+    "name": {
+      "en": "Tai Wo Hau Station",
+      "zh_Hant": "大窩口站",
+      "zh_Hans": "大窝口站"
+    },
+    "address": {
+      "en": "(Towards Kowloon) 698-704 Castle Peak Road, Tai Wo Hau, New Territories",
+      "zh_Hant": "新界大窩口青山公路698-704號荃灣段 (出九龍方向)",
+      "zh_Hans": "新界大窝口青山公路698-704号荃湾段 (出九龙方向)"
+    },
+    "type": {
+      "en": "Esso",
+      "zh_Hant": "埃索",
+      "zh_Hans": "埃索"
+    },
+    "stand_id": 178,
+    "image_url": "images/petrol_stations/NT94.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3504708594878,
+      "longitude": 114.13315
+    },
+    "name": {
+      "en": "Kwai Chung Station",
+      "zh_Hant": "葵涌站",
+      "zh_Hans": "葵涌站"
+    },
+    "address": {
+      "en": "(Near Wonderland Villas) 99 Castle Peak Road, Kwai Chung, New Territories",
+      "zh_Hant": "新界葵涌青山道99號 (近華景山莊)",
+      "zh_Hans": "新界葵涌青山道99号 (近华景山庄)"
+    },
+    "type": {
+      "en": "Esso",
+      "zh_Hant": "埃索",
+      "zh_Hans": "埃索"
+    },
+    "stand_id": 179,
+    "image_url": "images/petrol_stations/NT95.png"
+  },
+  {
+    "location": {
+      "latitude": 22.3693744349355,
+      "longitude": 114.132560044527
+    },
+    "name": {
+      "en": "Kwai Hing Station",
+      "zh_Hant": "葵興站",
+      "zh_Hans": "葵兴站"
+    },
+    "address": {
+      "en": "(Next to Cheung Wing Road) 551-561 Castle Peak Road, Kwai Chung, New Territories",
+      "zh_Hant": "新界葵涌地段714青山公路551-561號 (昌榮路迴旋處)",
+      "zh_Hans": "新界葵涌地段714青山公路551-561号 (昌荣路回旋处)"
+    },
+    "type": {
+      "en": "Esso",
+      "zh_Hant": "埃索",
+      "zh_Hans": "埃索"
+    },
+    "stand_id": 180,
+    "image_url": "images/petrol_stations/NT96.png"
+  },
+  {
+    "location": {
+      "latitude": 22.343663009355,
+      "longitude": 114.108528792858
+    },
+    "name": {
+      "en": "Tsing Yi South Station",
+      "zh_Hant": "青衣南站",
+      "zh_Hans": "青衣南站"
+    },
+    "address": {
+      "en": "(Opposite to May Fair Garden) 15 Tsing Yi Road, Tsing Yi, New Territories",
+      "zh_Hant": "新界青衣青衣路15號 (美景花園對面)",
+      "zh_Hans": "新界青衣青衣路15号 (美景花园对面)"
+    },
+    "type": {
+      "en": "Esso",
+      "zh_Hant": "埃索",
+      "zh_Hans": "埃索"
+    },
+    "stand_id": 181,
+    "image_url": "images/petrol_stations/NT97.png"
+  },
+  {
+    "location": {
+      "latitude": 22.4914790704142,
+      "longitude": 114.14550974965
+    },
+    "name": {
+      "en": "Fanling Station",
+      "zh_Hant": "粉嶺站",
+      "zh_Hans": "粉岭站"
+    },
+    "address": {
+      "en": "339 Jockey Club Road, Fanling, New Territories",
+      "zh_Hant": "新界粉嶺馬會道339號",
+      "zh_Hans": "新界粉岭马会道339号"
+    },
+    "type": {
+      "en": "Esso",
+      "zh_Hant": "埃索",
+      "zh_Hans": "埃索"
+    },
+    "stand_id": 182,
+    "image_url": "images/petrol_stations/NT98.png"
+  },
+  {
+    "location": {
+      "latitude": 22.2801995,
+      "longitude": 113.9394893
+    },
+    "name": {
+      "en": "Tung Chung Station",
+      "zh_Hant": "東涌站",
+      "zh_Hans": "东涌站"
+    },
+    "address": {
+      "en": "(At the junction of Yu Tung Road) 3 Chung Yan Road, Tung Chung",
+      "zh_Hant": "新界大嶼山東涌松仁路3號（裕東路交界）",
+      "zh_Hans": "新界大屿山东涌松仁路3号（裕东路交界）"
+    },
+    "type": {
+      "en": "PetroChina",
+      "zh_Hant": "中國石油",
+      "zh_Hans": "中国石油"
+    },
+    "stand_id": 183,
+    "image_url": "images/petrol_stations/NT99.png"
+  },
+  {
+    "location": {
+      "latitude": 22.44000058,
+      "longitude": 114.0735535
+    },
+    "name": {
+      "en": "Kam Tin Station",
+      "zh_Hant": "錦田站",
+      "zh_Hans": "锦田站"
+    },
+    "address": {
+      "en": "(Near Shek Kong Camp) 188 Kam Tin Road, Yuen Long, New Territories",
+      "zh_Hant": "新界元朗錦田公路188號 （近石崗軍營）",
+      "zh_Hans": "新界元朗锦田公路188号 （近石岗军营）"
+    },
+    "type": {
+      "en": "PetroChina",
+      "zh_Hant": "中國石油",
+      "zh_Hans": "中国石油"
+    },
+    "stand_id": 184,
+    "image_url": "images/petrol_stations/NT100.png"
+  },
+  {
+    "location": {
+      "latitude": 22.36632726,
+      "longitude": 114.1193569
+    },
+    "name": {
+      "en": "Tsuen Wan Station",
+      "zh_Hant": "荃灣站",
+      "zh_Hans": "荃湾站"
+    },
+    "address": {
+      "en": "(At the junction of Wang Lung Street) 171 Yeung Uk Road, Tsuen Wan, New Territories",
+      "zh_Hant": "新界荃灣楊屋道171號（橫龍街交界）",
+      "zh_Hans": "新界荃湾杨屋道171号（横龙街交界）"
+    },
+    "type": {
+      "en": "PetroChina",
+      "zh_Hant": "中國石油",
+      "zh_Hans": "中国石油"
+    },
+    "stand_id": 185,
+    "image_url": "images/petrol_stations/NT101.png"
+  },
+  {
+    "location": {
+      "latitude": 22.32135609,
+      "longitude": 114.2553529
+    },
+    "name": {
+      "en": "Tseung Kwan O Station",
+      "zh_Hant": "將軍澳站",
+      "zh_Hans": "将军澳站"
+    },
+    "address": {
+      "en": "(Opposite to Verbena Heights) 110 Po Hong Road, Tseung Kwan O, New Territories",
+      "zh_Hant": "新界將軍澳寶康路110號（茵怡花園對面）",
+      "zh_Hans": "新界将军澳宝康路110号（茵怡花园对面）"
+    },
+    "type": {
+      "en": "PetroChina",
+      "zh_Hant": "中國石油",
+      "zh_Hans": "中国石油"
+    },
+    "stand_id": 186,
+    "image_url": "images/petrol_stations/NT102.png"
+  }
+]

@@ -3,13 +3,17 @@ from enum import IntFlag
 from types import TaxiStandType
 import json
 from typing import List
+from configuration import proj_root
 
 
-taxi_stand_data_url = "../data/taxi_stands_demand_client.json"
+taxi_stand_data_url = f"{proj_root}/src/data/taxi_stands_api_data.json"
+petrol_station_data_url = f"{proj_root}/src/data/petrol_stations.json"
 
 with open(taxi_stand_data_url, "r") as f:
     taxi_stand_data = json.load(f)
 
+with open(petrol_station_data_url, "r") as f:
+    petrol_station_data = json.load(f)
 
 
 def haversine_distance(lat1, lon1, lat2, lon2):
