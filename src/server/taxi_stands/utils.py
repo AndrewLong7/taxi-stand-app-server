@@ -27,7 +27,7 @@ def calculate_f_score(distance, order_count, alpha=1, beta=1):
     return alpha / distance + beta * order_count
 
 
-def get_nearby_taxi_stands_v1(
+def get_nearby_taxi_stands(
     user_lat: float,
     user_lng: float,
     number: int,
@@ -56,41 +56,4 @@ def get_nearby_taxi_stands_v1(
         :number
     ]
 
-    return sorted_candidates
-
-
-def get_nearby_taxi_stands(
-    user_lat: float,
-    user_lng: float,
-    number: int,
-    coefficient: float,
-    stand_type: TaxiStandType,
-):
-    candidates = []
-
-    for stand in taxi_stand_data:
-        if (
-            (stand_type & TaxiStandType.URBAN and stand["isUrban"])
-            or (stand_type & TaxiStandType.CROSS_HARBOUR and stand["isCrossHarbour"])
-            or (stand_type & TaxiStandType.NT and stand["isNTTaxi"])
-            or (stand_type & TaxiStandType.LANTAU and stand["isLantauTaxi"])
-        ):
-            stand_lat = stand["location"]["lat"]
-            stand_lng = stand["location"]["lng"]
-            distance = haversine_distance(user_lat, user_lng, stand_lat, stand_lng)
-
-            order_count = sum(stand["order_count"].values())
-            f_score = calculate_f_score(
-                distance, order_count, alpha=coefficient, beta=1 - coefficient
-            )
-            stand["f_score"] = f_score
-
-            candidates.append(stand)
-
-    sorted_candidates = sorted(candidates, key=lambda x: x["f_score"], reverse=True)[
-        :number
-    ]
-    for candidate in sorted_candidates:
-        del candidate["order_count"]
-        del candidate["f_score"]
     return sorted_candidates
