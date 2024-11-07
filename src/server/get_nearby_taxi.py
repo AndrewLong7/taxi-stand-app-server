@@ -46,24 +46,3 @@ def get_nearby_taxi_stands(user_lat, user_lng, user_hour, stand_type, stand_data
         for stand in sorted(candidates, key=lambda x: x["f_score"], reverse=True)[:5]
     ]
     return top_5_stand_ids
-
-
-user_lat = 22.3226243
-user_lng = 114.2089527
-user_hour = 5
-stand_type = (
-    TaxiStandType.URBAN | TaxiStandType.CROSS_HARBOUR
-)  # 想要获取城市和过海的士站
-
-
-with open(
-    "../data/taxi_stands_demand_client.json",
-    "r",
-) as f:
-    stand_data = json.load(f)
-
-# get_top5:
-top_5_stand_ids = get_nearby_taxi_stands(
-    user_lat, user_lng, user_hour, stand_type, stand_data
-)
-print(top_5_stand_ids)

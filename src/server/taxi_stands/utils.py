@@ -23,16 +23,7 @@ def haversine_distance(lat1, lon1, lat2, lon2):
 
 
 def calculate_f_score(distance, order_count, alpha=1, beta=1):
-    """
-    0.04952405160615749 17
-    0.04558718490727373 0
-    0.04558718490727373 0
-    0.04782132583892084 7
-    0.04288357253639325 1
-    0.04196491533309243 4
-    0.04196491533309243 0
-    0.044752377809524714
-    """
+
     return alpha / distance + beta * order_count
 
 
