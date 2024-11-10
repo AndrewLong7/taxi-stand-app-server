@@ -22,9 +22,20 @@ def haversine_distance(lat1, lon1, lat2, lon2):
     return geodesic((lat1, lon1), (lat2, lon2)).kilometers
 
 
-def calculate_f_score(distance, order_count, alpha=1, beta=1):
+def calculate_f_score(
+    distance, order_count, alpha=5, beta=0.5, lambda_l1=0.1, lambda_l2=0.1
+):
+    """Calculate the f_score using adjusted parameters for distance and order_count"""
 
-    return alpha / distance + beta * order_count
+    # L1 正则化项（绝对值）
+    l1_regularization = lambda_l1 * (abs(distance) + abs(order_count))
+
+    # L2 正则化项（平方）
+    l2_regularization = lambda_l2 * (distance**2 + order_count)
+    # f_score 计算，调整 alpha 和 beta，减弱正则化项
+    f_score = (alpha / distance) + (beta * order_count) - l2_regularization
+
+    return f_score
 
 
 def get_nearby_taxi_stands(
