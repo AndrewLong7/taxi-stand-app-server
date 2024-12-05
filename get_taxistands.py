@@ -19,7 +19,7 @@ h3_distances = None
 
 
 # 初始化 Google Maps 客户端
-API_KEY = "AIzaSyAiOdTzFDfKAFzCAzNXyq4M_oC-C875YxM"  # 替换为你的 API 密钥
+API_KEY = ""  # 替换为你的 API 密钥
 gmaps = googlemaps.Client(key=API_KEY)
 
 def calculate_google_maps_distance(user_lat, user_lng, stand_lat, stand_lng, mode="driving"):
