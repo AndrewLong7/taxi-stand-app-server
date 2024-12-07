@@ -20,7 +20,7 @@ h3_distances = None
 
 
 # 初始化 Google Maps 客户端
-API_KEY = "AIzaSyDCVwtAq3cv1ZOvTM4pmSG1fvLLVYZ2Fj4"  # 替换为你的 API 密钥
+API_KEY = ""  # 替换为你的 API 密钥
 gmaps = googlemaps.Client(key=API_KEY)
 
 
