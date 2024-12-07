@@ -3,11 +3,11 @@ import sys
 from pydantic import BaseModel
 
 sys.path.append(".")
-
 from fastapi import FastAPI
 from taxi_stands.type import TaxiStandType
 from taxi_stands.utils import (
     get_nearby_taxi_stands,
+    get_nearby_taxi_stands_v2,
     taxi_stand_data_pure,
     petrol_station_data,
 )
@@ -27,7 +27,7 @@ class NearbyTaxiStandsPayload(BaseModel):
 async def read_nearby_taxi_stands(
     payload: NearbyTaxiStandsPayload,
 ):
-    return get_nearby_taxi_stands(
+    return get_nearby_taxi_stands_v2(
         payload.lat,
         payload.lng,
         payload.number,

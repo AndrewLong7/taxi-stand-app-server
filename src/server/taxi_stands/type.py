@@ -1,4 +1,4 @@
-from enum import IntFlag
+from enum import IntFlag, IntEnum
 
 
 class TaxiStandType(IntFlag):
@@ -7,3 +7,9 @@ class TaxiStandType(IntFlag):
     NT = 1 << 2
     LANTAU = 1 << 3
     ALL = URBAN | CROSS_HARBOUR | NT | LANTAU
+
+
+class RecommandationType(IntEnum):
+    RECOMMENDED = 0
+    DISTANCE = 1
+    ORDER = 2
