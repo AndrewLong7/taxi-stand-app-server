@@ -20,7 +20,7 @@ h3_distances = None
 
 
 # 初始化 Google Maps 客户端
-API_KEY = ""  # 替换为你的 API 密钥
+API_KEY = "AIzaSyAiOdTzFDfKAFzCAzNXyq4M_oC-C875YxM"  # 替换为你的 API 密钥
 gmaps = googlemaps.Client(key=API_KEY)
 
 
@@ -40,29 +40,28 @@ def load_road_network(lat, lon, dist=3000):
 import h3  # type: ignore
 
 
-def calculate_h3_distance(user_lat, user_lng, stand_lat, stand_lng, h3_resolution=9):
-    """
-    使用 H3 网格系统计算两点之间的网格距离。
+# def calculate_h3_distance(user_lat, user_lng, stand_lat, stand_lng, h3_resolution=9):
+#     """
+#     使用 H3 网格系统计算两点之间的网格距离。
 
-    Parameters:
-    - user_lat, user_lng: 用户的纬度和经度。
-    - stand_lat, stand_lng: 的士站点的纬度和经度。
-    - h3_resolution: H3 网格分辨率（默认 9）。
+#     Parameters:
+#     - user_lat, user_lng: 用户的纬度和经度。
+#     - stand_lat, stand_lng: 的士站点的纬度和经度。
+#     - h3_resolution: H3 网格分辨率（默认 9）。
 
-    Returns:
-    - 网格之间的距离（单位：跳数）。
-    """
-    user_h3 = h3.latlng_to_cell(user_lat, user_lng, h3_resolution)
+#     Returns:
+#     - 网格之间的距离（单位：跳数）。
+#     """
+#     user_h3 = h3.latlng_to_cell(user_lat, user_lng, h3_resolution)
 
-    stand_h3 = h3.latlng_to_cell(stand_lat, stand_lng, h3_resolution)
+#     stand_h3 = h3.latlng_to_cell(stand_lat, stand_lng, h3_resolution)
 
-    # 计算网格间的跳数
-    h3_distance = h3.grid_distance(user_h3, stand_h3)
-    return h3_distance
+#     # 计算网格间的跳数
+#     h3_distance = h3.grid_distance(user_h3, stand_h3)
+#     return h3_distance
 
 
 def calculate_osmnx_distance(lat1, lon1, lat2, lon2, fallback_distance=99999):
-    global total_cal_dist_time  # Declare the use of the global variable
     try:
         G = load_road_network(lat1, lon1)
 
@@ -88,25 +87,43 @@ import geopandas as gpd
 from shapely.geometry import Point
 
 # 定义区域划分规则
-REGION_A = ["Central and Western", "Eastern", "Southern", "Wan Chai"]  # 区域A
+REGION_A = ["Central And Western District", "Eastern District", "Southern District", "Wan Chai District"]  # 区域A
 REGION_B = []  # 其他区域归为区域B
 
 
-def load_hk_geodata(geodata_path="geodata/hk.json"):
-    """加载香港行政区地理数据"""
-    return gpd.read_file(geodata_path)
+def get_user_region(user_lat, user_lng):
+    """
+    根据经纬度通过 Google Maps API 确定用户所在区域，增加离岛区范围的判断。
+    """
+    # 定义离岛区的大范围（包括港珠澳大桥香港口岸）
+    lantau_bounds = {
+        "lat_min": 22.200, "lat_max": 22.320,  # 纬度范围
+        "lng_min": 113.800, "lng_max": 114.050  # 经度范围
+    }
 
+    # 检查是否在离岛区范围
+    if lantau_bounds["lat_min"] <= user_lat <= lantau_bounds["lat_max"] and \
+       lantau_bounds["lng_min"] <= user_lng <= lantau_bounds["lng_max"]:
+        return "B"
 
-def get_user_region(user_lat, user_lng, hk_geodata):
-    """根据经纬度判断用户所在区域（区域A或区域B）"""
-    user_location = Point(user_lng, user_lat)  # 经纬度顺序为 (lng, lat)
-    for _, region in hk_geodata.iterrows():
-        if region["geometry"].contains(user_location):
-            if region["NAMEE"] in REGION_A:
-                return "A"  # 属于区域A
-            else:
-                return "B"  # 属于区域B
-    return None  # 如果找不到区域，返回 None
+    # 调用 Google Maps API
+    try:
+        results = gmaps.reverse_geocode((user_lat, user_lng))
+        if not results:
+            return "Unknown"
+
+        for result in results:
+            for component in result['address_components']:
+                if 'administrative_area_level_2' in component['types']:
+                    region_name = component['long_name']
+                    if region_name in REGION_A:
+                        return "A"
+                    else:
+                        return "B"
+        return "Unknown"
+    except Exception as e:
+        print(f"Google Maps API Error: {e}")
+        return "Unknown"
 
 
 def filter_taxi_stands_by_region(user_region, stand_data):
@@ -126,16 +143,16 @@ import numpy as np
 
 
 def get_nearby_taxi_stands(
-    user_lat, user_lng, user_hour, stand_type, stand_data, hk_geodata
+    user_lat, user_lng, user_hour, stand_type, stand_data
 ):
     """结合用户区域仅搜索本区域内的站点"""
     # 确定用户所在区域
-    user_region = get_user_region(user_lat, user_lng, hk_geodata)
+    user_region = get_user_region(user_lat, user_lng)
     if not user_region:
         print("警告：用户位置不在已知区域内，无法推荐站点。")
         return []
 
-    print(f"用户所在区域：{'区域A' if user_region == 'A' else '区域B'}")
+    print(f"用户所在区域：{'Hong Kong Island' if user_region == 'A' else 'Kowloon and New Territories'}")
 
     # 根据用户所在区域筛选站点
     filtered_stands = filter_taxi_stands_by_region(user_region, stand_data)
@@ -164,8 +181,8 @@ def get_nearby_taxi_stands(
         return []
 
     # 提取站点的纬度、经度
-    stand_lats = df_stands["location"].apply(lambda loc: loc["lat"]).values
-    stand_lngs = df_stands["location"].apply(lambda loc: loc["lng"]).values
+    stand_lats = df_stands["location"].apply(lambda loc: loc["latitude"]).values
+    stand_lngs = df_stands["location"].apply(lambda loc: loc["longitude"]).values
 
     # 批量计算距离
     distances = calculate_distances_batch(user_lat, user_lng, stand_lats, stand_lngs)
@@ -198,7 +215,7 @@ def get_nearby_taxi_stands(
     return top_5_stands["stand_id"].tolist()
 
 
-def load_h3_distances(filename="h3_distances.json"):
+def load_h3_distances(filename="src/data/h3_distances.json"):
     """Load the precomputed distances from a JSON file."""
     with open(filename, "r") as f:
         data = json.load(f)
@@ -311,10 +328,8 @@ import copy
 # ------------------------------------test_case-----------------------------------------------#
 def main():
     print("Welcome to the Taxi Stand Finder!")
-    # 加载香港行政区数据
-    hk_geodata = load_hk_geodata()
     # 加载 JSON 数据
-    json_file = get_resource_path("updated_taxi_stands.json")
+    json_file = get_resource_path("src/data/taxi_stands_data_new.json")
     with open(json_file, "r", encoding="utf-8") as f:
         ori_stand_data = json.load(f)
     global h3_distances  # Declare the global variable
@@ -336,8 +351,7 @@ def main():
         start_time = time.time()
         # 获取推荐的站点
         top_5_stand_ids = get_nearby_taxi_stands(
-            user_lat, user_lng, user_hour, stand_type, stand_data, hk_geodata
-        )
+            user_lat, user_lng, user_hour, stand_type, stand_data)
 
         # 记录查询结束时间
         end_time = time.time()
